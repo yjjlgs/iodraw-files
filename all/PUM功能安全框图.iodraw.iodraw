@@ -115,7 +115,7 @@
         <mxCell id="nCzhQT6DZImcMavk9LZU-1" value="电机驱动&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;鸣志SR3-mini&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-375" y="740" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nCzhQT6DZImcMavk9LZU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nCzhQT6DZImcMavk9LZU-5">
+        <mxCell id="nCzhQT6DZImcMavk9LZU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nCzhQT6DZImcMavk9LZU-5" target="nCzhQT6DZImcMavk9LZU-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="1059" as="targetPoint" />
           </mxGeometry>
