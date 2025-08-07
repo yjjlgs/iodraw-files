@@ -37,6 +37,9 @@
         <mxCell id="ss44RtarprCUL28gmBhR-3" value="控制芯片(MCU0)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="440" width="230" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="nCzhQT6DZImcMavk9LZU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="nCzhQT6DZImcMavk9LZU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="440" width="230" height="140" as="geometry" />
         </mxCell>
@@ -111,8 +114,11 @@
         <mxCell id="nCzhQT6DZImcMavk9LZU-1" value="电机驱动&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;鸣志SR3-mini&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-375" y="740" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="nCzhQT6DZImcMavk9LZU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nCzhQT6DZImcMavk9LZU-5" target="sYH5gS_vqz66bdn9ls0h-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nCzhQT6DZImcMavk9LZU-5" value="电机驱动&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;鸣志SR3-mini&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="740" width="180" height="80" as="geometry" />
+          <mxGeometry x="245" y="740" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
