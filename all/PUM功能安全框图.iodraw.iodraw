@@ -104,7 +104,7 @@
           <mxGeometry x="184" y="1180" width="232" height="230" as="geometry" />
         </mxCell>
         <mxCell id="sYH5gS_vqz66bdn9ls0h-25" value="步进电机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-345" y="1100" width="120" height="80" as="geometry" />
+          <mxGeometry x="-345" y="1090" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sYH5gS_vqz66bdn9ls0h-26" value="光学编码器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-485" y="1059" width="120" height="40" as="geometry" />
@@ -121,7 +121,7 @@
         <mxCell id="sYH5gS_vqz66bdn9ls0h-30" value="光电&lt;div&gt;开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="205" y="1130" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nCzhQT6DZImcMavk9LZU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nCzhQT6DZImcMavk9LZU-1" target="sYH5gS_vqz66bdn9ls0h-26">
+        <mxCell id="nCzhQT6DZImcMavk9LZU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nCzhQT6DZImcMavk9LZU-1" target="sYH5gS_vqz66bdn9ls0h-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nCzhQT6DZImcMavk9LZU-1" value="电机驱动&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;鸣志SR3-mini&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
