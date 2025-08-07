@@ -55,6 +55,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nCzhQT6DZImcMavk9LZU-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nCzhQT6DZImcMavk9LZU-16">
+          <mxGeometry x="-0.9436" y="5" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-3" value="控制芯片(MCU0)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="440" width="230" height="140" as="geometry" />
         </mxCell>
