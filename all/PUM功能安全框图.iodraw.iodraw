@@ -229,7 +229,7 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-18" value="机内&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;温度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-157" y="220" width="104" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="TsFCpcP3dpgVQ0KVF583-28">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-26" target="TsFCpcP3dpgVQ0KVF583-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-821.11" y="1080" as="sourcePoint" />
           </mxGeometry>
