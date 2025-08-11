@@ -21,9 +21,9 @@
             <mxPoint x="-745" y="123" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-40" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TsFCpcP3dpgVQ0KVF583-36">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;12V&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TsFCpcP3dpgVQ0KVF583-36">
           <mxGeometry x="-0.7668" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" y="-61" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-2" value="AC/DC(120W)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;SNP-S15F&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
