@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="50.889999999999986" y="490" width="95" height="100" as="geometry" />
+          <mxGeometry x="50.889999999999986" y="530" width="95" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-2" target="TsFCpcP3dpgVQ0KVF583-5">
           <mxGeometry relative="1" as="geometry" />
