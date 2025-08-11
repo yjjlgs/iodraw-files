@@ -218,6 +218,9 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-18" value="机内&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;温度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="220" width="94" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-26" value="电机驱动&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;鸣志SR3-mini&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="750" width="180" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
