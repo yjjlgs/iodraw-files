@@ -184,11 +184,14 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="TsFCpcP3dpgVQ0KVF583-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-13" value="温度&lt;br&gt;检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-13" value="泵体&lt;br&gt;温度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-160" y="1130" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-14" value="温度&lt;br&gt;检测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460.5" y="1130" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-18" value="机内温度" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="230" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
