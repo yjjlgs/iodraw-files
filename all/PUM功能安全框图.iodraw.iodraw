@@ -125,6 +125,9 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.dual_gate_mosfet_n;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-60" y="830" width="95" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="890" width="95" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
