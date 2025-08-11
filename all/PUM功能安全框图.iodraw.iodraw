@@ -262,7 +262,7 @@
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-760" y="920" as="targetPoint" />
+            <mxPoint x="-790" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-38" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
