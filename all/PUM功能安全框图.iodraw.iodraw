@@ -15,7 +15,7 @@
         <mxCell id="ss44RtarprCUL28gmBhR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.367;exitY=1.045;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ss44RtarprCUL28gmBhR-2" target="ss44RtarprCUL28gmBhR-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-2">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-2" target="TsFCpcP3dpgVQ0KVF583-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-760" y="280" as="targetPoint" />
           </mxGeometry>
@@ -255,7 +255,7 @@
           <mxGeometry x="-1410" y="660" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-38" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="800" width="170" height="70" as="geometry" />
+          <mxGeometry x="-830" y="790" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
