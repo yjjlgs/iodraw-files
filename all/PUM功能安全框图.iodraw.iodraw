@@ -219,7 +219,7 @@
           <mxGeometry x="-150" y="220" width="94" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-26" value="USB&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;B型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="980" width="180" height="80" as="geometry" />
+          <mxGeometry x="-970" y="840" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
