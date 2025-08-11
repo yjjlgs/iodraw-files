@@ -21,17 +21,8 @@
             <Array as="points">
               <mxPoint x="-285" y="170" />
               <mxPoint x="-110" y="170" />
-              <mxPoint x="-110" y="900" />
-              <mxPoint x="-285" y="900" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nCzhQT6DZImcMavk9LZU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.299;exitY=1.016;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="ss44RtarprCUL28gmBhR-2" target="nCzhQT6DZImcMavk9LZU-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-110" y="121" />
-              <mxPoint x="-110" y="900" />
-              <mxPoint x="336" y="900" />
+              <mxPoint x="-110" y="990" />
+              <mxPoint x="-285" y="990" />
             </Array>
           </mxGeometry>
         </mxCell>
