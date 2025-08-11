@@ -65,6 +65,9 @@
             <mxPoint x="14" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-3" target="TsFCpcP3dpgVQ0KVF583-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-3" value="控制芯片(MCU0)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="440" width="230" height="140" as="geometry" />
         </mxCell>
@@ -196,7 +199,7 @@
           <mxGeometry x="460.5" y="1130" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-18" value="机内&lt;div&gt;温度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="220" width="94" height="90" as="geometry" />
+          <mxGeometry x="-150" y="220" width="94" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
