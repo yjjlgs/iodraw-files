@@ -221,6 +221,9 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-26" value="USB&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;B型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-970" y="1000" width="130" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-27" value="USB&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;B型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="1210" width="130" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
