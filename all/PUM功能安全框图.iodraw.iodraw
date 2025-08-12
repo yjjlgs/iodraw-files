@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="S5Uae7tURYrWwjD6AQq9">
-    <mxGraphModel dx="2724" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3134" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,6 +303,9 @@
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-57" value="驱动器&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-285" y="820" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-59" value="驱动器&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-275" y="830" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
