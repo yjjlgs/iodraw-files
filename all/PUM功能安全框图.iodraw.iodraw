@@ -97,7 +97,7 @@
         <mxCell id="ss44RtarprCUL28gmBhR-3" value="控制芯片(MCU0)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="440" width="230" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="TsFCpcP3dpgVQ0KVF583-56">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="TsFCpcP3dpgVQ0KVF583-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="TsFCpcP3dpgVQ0KVF583-13">
@@ -208,7 +208,7 @@
         <mxCell id="nCzhQT6DZImcMavk9LZU-13" value="步进电机" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="275.5" y="1090" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="1" source="nCzhQT6DZImcMavk9LZU-14" target="ss44RtarprCUL28gmBhR-4">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;jumpStyle=none;" edge="1" parent="1" source="nCzhQT6DZImcMavk9LZU-14" target="ss44RtarprCUL28gmBhR-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="680" as="targetPoint" />
             <Array as="points">
