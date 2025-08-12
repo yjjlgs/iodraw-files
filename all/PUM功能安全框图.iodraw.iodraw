@@ -89,6 +89,12 @@
         <mxCell id="ss44RtarprCUL28gmBhR-3" value="控制芯片(MCU0)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="440" width="230" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="TsFCpcP3dpgVQ0KVF583-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="TsFCpcP3dpgVQ0KVF583-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="379.25" y="440" width="230" height="140" as="geometry" />
         </mxCell>
@@ -302,11 +308,6 @@
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-38" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-811.11" y="800" width="170" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="830" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-56" value="泵体&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460.5" y="1110" width="90" height="70" as="geometry" />
