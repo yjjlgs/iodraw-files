@@ -97,14 +97,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="nCzhQT6DZImcMavk9LZU-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="474" y="890" />
-              <mxPoint x="428" y="890" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="358.45000000000005" y="440" width="230" height="140" as="geometry" />
         </mxCell>
