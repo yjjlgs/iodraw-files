@@ -242,7 +242,7 @@
             <mxPoint x="-13" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-13" target="ss44RtarprCUL28gmBhR-4">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-13" target="ss44RtarprCUL28gmBhR-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="940" as="targetPoint" />
             <Array as="points">
@@ -313,7 +313,7 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-38" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-811.11" y="800" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-56" target="ss44RtarprCUL28gmBhR-4">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-56" target="ss44RtarprCUL28gmBhR-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="506" y="1010" />
