@@ -381,8 +381,8 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-78" value="声光" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="770" y="900" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-81" value="风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="770" y="425" width="90" height="190" as="geometry" />
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-82" value="LDO(5V-3.3V)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;LP5907&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420.63" y="230" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
