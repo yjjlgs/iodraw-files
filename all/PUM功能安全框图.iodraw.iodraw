@@ -237,7 +237,7 @@
             <mxPoint x="-13" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-13" value="泵体&lt;br&gt;温度&lt;br&gt;CT1721C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-13" value="泵体&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-160" y="1110" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-18" value="机内&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;温度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
@@ -298,7 +298,7 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-38" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-811.11" y="800" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-56" value="泵体&lt;br&gt;温度&lt;br&gt;CT1721C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-56" value="泵体&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460.5" y="1110" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-57" value="驱动器&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
