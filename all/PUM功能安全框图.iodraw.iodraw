@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-3" value="控制芯片(MCU0)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="440" width="230" height="140" as="geometry" />
+          <mxGeometry x="-455" y="570" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="440" width="230" height="140" as="geometry" />
