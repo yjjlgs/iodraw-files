@@ -298,12 +298,6 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-38" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-811.11" y="800" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-54" value="泵体&lt;br&gt;温度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-270" y="820" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-55" value="泵体&lt;br&gt;温度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="350" y="820" width="70" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-56" value="泵体&lt;br&gt;温度&lt;br&gt;CT1721C" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460.5" y="1110" width="90" height="70" as="geometry" />
         </mxCell>
