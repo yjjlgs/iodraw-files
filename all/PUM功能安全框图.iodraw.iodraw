@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="S5Uae7tURYrWwjD6AQq9">
-    <mxGraphModel dx="1947" dy="127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3906" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-75" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;5V&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TsFCpcP3dpgVQ0KVF583-74">
           <mxGeometry x="0.8539" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="15" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nCzhQT6DZImcMavk9LZU-1" value="电机驱动&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;鸣志SR3-mini&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
