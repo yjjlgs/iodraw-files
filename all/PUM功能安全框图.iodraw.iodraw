@@ -305,7 +305,10 @@
           <mxGeometry x="-811.11" y="800" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-54" value="泵体&lt;br&gt;温度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-150" y="1140" width="70" height="50" as="geometry" />
+          <mxGeometry x="-270" y="820" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-55" value="泵体&lt;br&gt;温度" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-260" y="830" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
