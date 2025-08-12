@@ -26,6 +26,9 @@
             <mxPoint x="16" y="-61" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-2" target="TsFCpcP3dpgVQ0KVF583-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-2" value="AC/DC(120W)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;SNP-S15F&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-780" y="30" width="1350" height="90" as="geometry" />
         </mxCell>
@@ -99,6 +102,9 @@
               <mxPoint x="-115" y="920" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="TsFCpcP3dpgVQ0KVF583-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
           <mxGeometry x="390.63" y="440" width="230" height="140" as="geometry" />
