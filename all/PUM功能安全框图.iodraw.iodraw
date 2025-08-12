@@ -29,9 +29,9 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-2" target="TsFCpcP3dpgVQ0KVF583-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-72" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TsFCpcP3dpgVQ0KVF583-71">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;12V&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TsFCpcP3dpgVQ0KVF583-71">
           <mxGeometry x="-0.9519" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-2" value="AC/DC(120W)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;SNP-S15F&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
