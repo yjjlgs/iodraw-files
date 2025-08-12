@@ -29,9 +29,9 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-2" target="TsFCpcP3dpgVQ0KVF583-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="232" y="150" />
-              <mxPoint x="570" y="150" />
-              <mxPoint x="570" y="415" />
+              <mxPoint x="232" y="160" />
+              <mxPoint x="610" y="160" />
+              <mxPoint x="610" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
