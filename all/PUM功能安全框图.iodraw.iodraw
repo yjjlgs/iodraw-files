@@ -26,10 +26,11 @@
             <mxPoint x="16" y="-61" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.957;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-2" target="TsFCpcP3dpgVQ0KVF583-69">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-2" target="TsFCpcP3dpgVQ0KVF583-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="140" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="359" y="98" />
               <mxPoint x="359" y="370" />
               <mxPoint x="755" y="370" />
             </Array>
