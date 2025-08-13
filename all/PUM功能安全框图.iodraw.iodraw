@@ -230,7 +230,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sYH5gS_vqz66bdn9ls0h-26" value="光学&lt;br&gt;编码器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="sYH5gS_vqz66bdn9ls0h-26" value="光学&lt;br&gt;编码器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" parent="1" vertex="1">
           <mxGeometry x="-625" y="1330" width="65" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sYH5gS_vqz66bdn9ls0h-29" value="光电&lt;div&gt;开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" parent="1" vertex="1">
@@ -270,7 +270,7 @@
             <mxPoint x="17" y="-208" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nCzhQT6DZImcMavk9LZU-14" value="光学&lt;br&gt;编码器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="nCzhQT6DZImcMavk9LZU-14" value="光学&lt;br&gt;编码器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" parent="1" vertex="1">
           <mxGeometry x="-4.5" y="1330" width="65" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nCzhQT6DZImcMavk9LZU-15" value="光电&lt;div&gt;开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" parent="1" vertex="1">
