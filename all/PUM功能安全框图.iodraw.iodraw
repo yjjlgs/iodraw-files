@@ -406,13 +406,10 @@
           <mxGeometry x="250" y="490" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-84" value="差分放大&lt;br&gt;LT1495" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="390" width="100" height="60" as="geometry" />
+          <mxGeometry x="342" y="390" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-87" value="LEMO-4pin&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;AE2411A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="270" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-88" value="差分放大&lt;br&gt;LT1495" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="390" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-90" value="电源隔离&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; background-color: rgb(252, 252, 252); color: rgba(0, 0, 0, 0.9); text-align: start; font-weight: normal;&quot;&gt;IML0205S05&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2.5" y="270" width="190" height="90" as="geometry" />
@@ -422,6 +419,9 @@
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-93" value="磁隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;ADuM4401&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2.5" y="490" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-98" value="差分放大&lt;br&gt;LT1495" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="390" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
