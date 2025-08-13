@@ -459,6 +459,9 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-101" value="LEMO-4pin&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;AE2411A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="250" y="270" width="200" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-106" target="ss44RtarprCUL28gmBhR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-106" value="RS-232&lt;br&gt;MAX3227" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1100.0000000000002" y="715" width="130" height="70" as="geometry" />
         </mxCell>
