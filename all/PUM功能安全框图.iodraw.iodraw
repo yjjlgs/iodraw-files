@@ -233,7 +233,7 @@
         <mxCell id="sYH5gS_vqz66bdn9ls0h-26" value="光学&lt;br&gt;编码器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-625" y="1330" width="65" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sYH5gS_vqz66bdn9ls0h-29" value="光电&lt;div&gt;开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="sYH5gS_vqz66bdn9ls0h-29" value="光电&lt;div&gt;开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" parent="1" vertex="1">
           <mxGeometry x="-815" y="1370" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nCzhQT6DZImcMavk9LZU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;jumpStyle=arc;" parent="1" source="nCzhQT6DZImcMavk9LZU-1" target="sYH5gS_vqz66bdn9ls0h-25" edge="1">
@@ -273,10 +273,10 @@
         <mxCell id="nCzhQT6DZImcMavk9LZU-14" value="光学&lt;br&gt;编码器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-4.5" y="1330" width="65" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="nCzhQT6DZImcMavk9LZU-15" value="光电&lt;div&gt;开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="nCzhQT6DZImcMavk9LZU-15" value="光电&lt;div&gt;开关&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" parent="1" vertex="1">
           <mxGeometry x="-194.5" y="1370" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;rotation=0;" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;rotation=0;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="-506" y="678" width="95" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-3" target="TsFCpcP3dpgVQ0KVF583-2">
@@ -316,7 +316,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.n-channel_mosfet_1;rotation=90;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="-349.11" y="770" width="95" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.7;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#2878b5;strokeWidth=5;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-2" target="TsFCpcP3dpgVQ0KVF583-5">
@@ -330,10 +330,10 @@
             <mxPoint x="3" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-13" value="泵体&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-13" value="泵体&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1350" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-18" value="机内&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;温度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-18" value="机内&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;温度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="-557" y="460" width="104" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-26" target="TsFCpcP3dpgVQ0KVF583-28">
@@ -380,7 +380,7 @@
             <mxPoint x="14" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-56" value="泵体&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-56" value="泵体&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="60.5" y="1350" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-57" target="ss44RtarprCUL28gmBhR-4">
@@ -391,7 +391,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-57" value="驱动器&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-57" value="驱动器&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="-685" y="1060" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-59" target="ss44RtarprCUL28gmBhR-4">
@@ -407,13 +407,13 @@
             <mxPoint x="16" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-59" value="驱动器&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-59" value="驱动器&lt;br&gt;温度&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CT1721C&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="-65" y="1060" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-69" value="风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-69" value="风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="370" y="655" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-78" value="声光" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-78" value="声光" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;fillColor=#f6cc3f;" vertex="1" parent="1">
           <mxGeometry x="370" y="1100" width="90" height="190" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#f6cc3f;strokeWidth=3;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-82" target="TsFCpcP3dpgVQ0KVF583-84">
