@@ -149,9 +149,14 @@
             <Array as="points">
               <mxPoint x="-370" y="715" />
               <mxPoint x="-370" y="640" />
-              <mxPoint x="-540" y="640" />
-              <mxPoint x="-540" y="715" />
+              <mxPoint x="-520" y="640" />
+              <mxPoint x="-520" y="715" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-109" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TsFCpcP3dpgVQ0KVF583-108">
+          <mxGeometry x="0.9358" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
