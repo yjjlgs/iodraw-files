@@ -155,14 +155,9 @@
             <mxPoint x="-950" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss44RtarprCUL28gmBhR-7" value="USART2-TX&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=18;" parent="ss44RtarprCUL28gmBhR-6" vertex="1" connectable="0">
-          <mxGeometry x="-0.6902" y="1" relative="1" as="geometry">
-            <mxPoint x="-83" y="19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ss44RtarprCUL28gmBhR-9" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;USART2-RX&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="ss44RtarprCUL28gmBhR-6" vertex="1" connectable="0">
+        <mxCell id="ss44RtarprCUL28gmBhR-9" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;USART2&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" parent="ss44RtarprCUL28gmBhR-6" vertex="1" connectable="0">
           <mxGeometry x="-0.5215" y="3" relative="1" as="geometry">
-            <mxPoint x="51" y="-24" as="offset" />
+            <mxPoint x="-19" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-10" value="数据存储(Flash)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;MR25H10CDF(128KB)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" parent="1" vertex="1">
