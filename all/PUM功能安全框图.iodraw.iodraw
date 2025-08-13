@@ -482,7 +482,7 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-38" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#c4a5de;" vertex="1" parent="1">
           <mxGeometry x="-1211.1100000000001" y="1040" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-121" value="黄色为保护电路&amp;nbsp; &amp;nbsp; &lt;br&gt;蓝色为电源电路&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;其余为控制电路&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-121" value="&lt;font color=&quot;#f6cc3f&quot;&gt;黄色为保护电路&lt;/font&gt;&amp;nbsp; &amp;nbsp; &lt;br&gt;蓝色为电源电路&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;其余为控制电路&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1185" y="1565" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
