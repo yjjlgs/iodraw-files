@@ -389,7 +389,7 @@
           <mxGeometry x="335" y="820" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-69" value="风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="760" y="415" width="90" height="190" as="geometry" />
+          <mxGeometry x="710" y="415" width="90" height="190" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-78" value="声光" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="770" y="900" width="90" height="190" as="geometry" />
