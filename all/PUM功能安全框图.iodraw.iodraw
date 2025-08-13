@@ -436,7 +436,7 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-90" target="TsFCpcP3dpgVQ0KVF583-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-114" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;5V&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="TsFCpcP3dpgVQ0KVF583-113">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-114" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;5V&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="TsFCpcP3dpgVQ0KVF583-113">
           <mxGeometry x="-0.664" y="2" relative="1" as="geometry">
             <mxPoint x="2" y="-13" as="offset" />
           </mxGeometry>
