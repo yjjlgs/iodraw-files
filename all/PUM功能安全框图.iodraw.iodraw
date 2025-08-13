@@ -426,7 +426,7 @@
           <mxGeometry x="251" y="390" width="98" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-101" value="LEMO-4pin&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;AE2411A&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="270" width="200" height="90" as="geometry" />
+          <mxGeometry x="250" y="270" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
