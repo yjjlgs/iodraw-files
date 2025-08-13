@@ -147,8 +147,8 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ss44RtarprCUL28gmBhR-4" target="ss44RtarprCUL28gmBhR-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-320" y="680" />
-              <mxPoint x="-320" y="680" />
+              <mxPoint x="-79" y="670" />
+              <mxPoint x="-570" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
