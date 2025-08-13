@@ -57,7 +57,7 @@
             <mxPoint x="11" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss44RtarprCUL28gmBhR-2" value="AC/DC(120W)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;SNP-S15F&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="ss44RtarprCUL28gmBhR-2" value="AC/DC(120W)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;SNP-S15F&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#2878b5;" parent="1" vertex="1">
           <mxGeometry x="-1180" y="270" width="1090" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ss44RtarprCUL28gmBhR-3" target="ss44RtarprCUL28gmBhR-10" edge="1">
