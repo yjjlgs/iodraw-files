@@ -148,7 +148,7 @@
           <mxGeometry x="-79.5" y="680" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-5" value="显示屏(LCD)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;DMG64480K035&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=default;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="-1360" y="420" width="130" height="660" as="geometry" />
+          <mxGeometry x="-1360" y="420" width="130" height="520" as="geometry" />
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=3;jumpStyle=arc;" parent="1" source="ss44RtarprCUL28gmBhR-3" target="ss44RtarprCUL28gmBhR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
