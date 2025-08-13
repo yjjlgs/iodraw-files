@@ -170,7 +170,7 @@
             <mxPoint x="-17" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#ffbe7a;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#594e26;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-79.5" y="680" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-5" value="显示屏(LCD)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;DMG64480K035&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=default;textDirection=vertical-rl;" parent="1" vertex="1">
@@ -468,7 +468,7 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-38" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1211.1100000000001" y="1040" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACYAAAAYCAIAAAAZLxgkAAAAgklEQVRIDWP4dcrk90m9Pyf16YYY/pzU+3PKgJ5oYKzUp6cX/5wyYABFId0DdtRKWoT5aFzSIlRHMwmNQnU0YEcDlrKaZ7TAo2IK+n3S4PdJaAuL5gH747j+g81aB2aq7J6qfGONxtPt2jS28qT+0x1as2tkewulJhRLz66RPbNYDQB3ZPa7ixlWBgAAAABJRU5ErkJggg==;" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACYAAAAYCAIAAAAZLxgkAAAAgklEQVRIDWP4dcrk90m9Pyf16YYY/pzU+3PKgJ5oYKzUp6cX/5wyYABFId0DdtRKWoT5aFzSIlRHMwmNQnU0YEcDlrKaZ7TAo2IK+n3S4PdJaAuL5gH747j+g81aB2aq7J6qfGONxtPt2jS28qT+0x1as2tkewulJhRLz66RPbNYDQB3ZPa7ixlWBgAAAABJRU5ErkJggg==;fillColor=#594e26;" vertex="1" parent="1">
           <mxGeometry x="440" y="920" width="38" height="24" as="geometry" />
         </mxCell>
       </root>
