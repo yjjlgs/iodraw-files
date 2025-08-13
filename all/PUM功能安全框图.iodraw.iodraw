@@ -170,7 +170,7 @@
             <mxPoint x="-17" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="ss44RtarprCUL28gmBhR-4" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#ffbecc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-79.5" y="680" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-5" value="显示屏(LCD)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;DMG64480K035&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=default;textDirection=vertical-rl;" parent="1" vertex="1">
