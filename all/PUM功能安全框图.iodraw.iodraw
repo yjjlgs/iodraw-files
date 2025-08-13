@@ -448,7 +448,7 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-106" value="RS-232&lt;br&gt;MAX3227" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1100.0000000000002" y="715" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-111" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TsFCpcP3dpgVQ0KVF583-111" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;glass=1;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="1074" width="545.89" height="460" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-30" value="磁隔离*2&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;ADuM4402BRIZ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
