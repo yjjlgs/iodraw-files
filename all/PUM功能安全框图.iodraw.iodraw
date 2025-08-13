@@ -30,8 +30,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="140" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="360" y="340" />
-              <mxPoint x="755" y="340" />
+              <mxPoint x="359" y="370" />
+              <mxPoint x="755" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-2" value="AC/DC(120W)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;SNP-S15F&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-780" y="30" width="1350" height="90" as="geometry" />
+          <mxGeometry x="-780" y="30" width="1190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ss44RtarprCUL28gmBhR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ss44RtarprCUL28gmBhR-3" target="ss44RtarprCUL28gmBhR-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
