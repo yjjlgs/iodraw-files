@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="S5Uae7tURYrWwjD6AQq9">
-    <mxGraphModel dx="5285" dy="2945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3387" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,11 +399,6 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-78" value="声光" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="710" y="860" width="90" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="TsFCpcP3dpgVQ0KVF583-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-82">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="885" y="20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TsFCpcP3dpgVQ0KVF583-82" target="TsFCpcP3dpgVQ0KVF583-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -417,7 +412,7 @@
           <mxGeometry x="910" y="-180" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-88" value="差分放大&lt;br&gt;LT1495" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-70" width="120" height="70" as="geometry" />
+          <mxGeometry x="650" y="-10" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="TsFCpcP3dpgVQ0KVF583-90" value="电源隔离&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; background-color: rgb(252, 252, 252); color: rgba(0, 0, 0, 0.9); text-align: start; font-weight: normal;&quot;&gt;IML0205S05&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="30" width="190" height="90" as="geometry" />
