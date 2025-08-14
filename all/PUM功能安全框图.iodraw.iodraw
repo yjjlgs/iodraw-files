@@ -485,6 +485,9 @@
         <mxCell id="TsFCpcP3dpgVQ0KVF583-121" value="&lt;font color=&quot;#f6cc3f&quot; style=&quot;font-size: 32px;&quot;&gt;黄色为保护电路&lt;/font&gt;&amp;nbsp; &amp;nbsp; &lt;br style=&quot;font-size: 32px;&quot;&gt;&lt;font color=&quot;#2878b5&quot; style=&quot;font-size: 32px;&quot;&gt;蓝色为电源电路&lt;/font&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div style=&quot;font-size: 32px;&quot;&gt;其余为控制电路&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="-1380" y="1661" width="280" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="VqTlydVTYhusXO2kPM1S-1" value="液压力检测" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="115" y="403" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
