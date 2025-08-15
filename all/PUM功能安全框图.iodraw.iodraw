@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="S5Uae7tURYrWwjD6AQq9">
-    <mxGraphModel dx="2699" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2549" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -546,16 +546,16 @@
         </mxCell>
         <mxCell id="8KT8k4LLRg9FySYO02id-13" value="UART4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=18;" vertex="1" connectable="0" parent="8KT8k4LLRg9FySYO02id-12">
           <mxGeometry x="0.9358" y="-3" relative="1" as="geometry">
-            <mxPoint x="85" y="-15" as="offset" />
+            <mxPoint x="32" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8KT8k4LLRg9FySYO02id-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;USART1&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8KT8k4LLRg9FySYO02id-12">
           <mxGeometry x="-0.8954" y="2" relative="1" as="geometry">
-            <mxPoint x="-95" y="-22" as="offset" />
+            <mxPoint x="-36" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8KT8k4LLRg9FySYO02id-15" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#f6cc3f;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2180.5" y="620" width="230" height="140" as="geometry" />
+          <mxGeometry x="1950" y="620" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8KT8k4LLRg9FySYO02id-16" value="显示屏(LCD)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;DMG64480K035&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#999999;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="900" y="430" width="130" height="520" as="geometry" />
