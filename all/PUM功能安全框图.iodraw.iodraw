@@ -510,6 +510,9 @@
             <mxPoint x="-17" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8KT8k4LLRg9FySYO02id-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8KT8k4LLRg9FySYO02id-1" target="8KT8k4LLRg9FySYO02id-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8KT8k4LLRg9FySYO02id-1" value="控制芯片(MCU0)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="2600" width="230" height="140" as="geometry" />
         </mxCell>
@@ -519,8 +522,11 @@
         <mxCell id="8KT8k4LLRg9FySYO02id-6" value="显示屏(LCD)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;DMG64480K035&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#999999;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="-1660" y="2410" width="130" height="520" as="geometry" />
         </mxCell>
+        <mxCell id="8KT8k4LLRg9FySYO02id-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8KT8k4LLRg9FySYO02id-7" target="8KT8k4LLRg9FySYO02id-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8KT8k4LLRg9FySYO02id-7" value="RS-232&lt;br&gt;MAX3227" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="-1390.0000000000002" y="2430" width="130" height="70" as="geometry" />
+          <mxGeometry x="-1420.0000000000002" y="2635" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
