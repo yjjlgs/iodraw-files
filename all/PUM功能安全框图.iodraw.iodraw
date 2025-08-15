@@ -498,10 +498,10 @@
           <mxGeometry x="-440" y="771" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8KT8k4LLRg9FySYO02id-1" value="控制芯片(MCU0)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="-790" y="690" width="230" height="140" as="geometry" />
+          <mxGeometry x="-1275" y="2600" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8KT8k4LLRg9FySYO02id-2" value="保护芯片(MCU1)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;STM32F405RGT6&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#f6cc3f;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-69.5" y="690" width="230" height="140" as="geometry" />
+          <mxGeometry x="-554.5" y="2600" width="230" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
