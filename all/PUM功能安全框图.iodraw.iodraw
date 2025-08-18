@@ -585,7 +585,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BNavpLughCbc98rCQ7ok-1" value="AE2736D" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#2878b5;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1820" width="280" height="90" as="geometry" />
+          <mxGeometry x="890" y="1730" width="170" height="270" as="geometry" />
         </mxCell>
         <mxCell id="BNavpLughCbc98rCQ7ok-3" value="电源隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NXJ1S1205MC&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#c4a5de;" vertex="1" parent="1">
           <mxGeometry x="-1211.1100000000001" y="1040" width="170" height="70" as="geometry" />
