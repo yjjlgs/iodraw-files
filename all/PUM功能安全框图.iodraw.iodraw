@@ -644,10 +644,10 @@
           <mxGeometry x="1160" y="2200" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Mtf_HzugU7Or4GqAyhF3-9" value="电源隔离&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; color: rgba(0, 0, 0, 0.9); text-align: start; font-weight: normal;&quot;&gt;IML0205S05&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#c4a5de;" vertex="1" parent="1">
-          <mxGeometry x="1437.5" y="2010" width="190" height="90" as="geometry" />
+          <mxGeometry x="1390" y="2000" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Mtf_HzugU7Or4GqAyhF3-10" value="磁隔离&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;ADuM4401&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#c4a5de;" vertex="1" parent="1">
-          <mxGeometry x="1437.5" y="2230" width="190" height="90" as="geometry" />
+          <mxGeometry x="1670" y="2000" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
