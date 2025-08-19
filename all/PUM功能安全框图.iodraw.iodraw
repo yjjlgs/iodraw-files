@@ -711,7 +711,7 @@
           <mxGeometry x="1700" y="2070" width="150" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Mtf_HzugU7Or4GqAyhF3-26" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;保护电路&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1751" width="150" height="50" as="geometry" />
+          <mxGeometry x="1140" y="2256" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
