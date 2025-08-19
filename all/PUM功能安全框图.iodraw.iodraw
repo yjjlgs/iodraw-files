@@ -691,6 +691,11 @@
             <mxPoint x="1700" y="2215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Mtf_HzugU7Or4GqAyhF3-29" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mtf_HzugU7Or4GqAyhF3-14">
+          <mxGeometry x="-0.8924" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Mtf_HzugU7Or4GqAyhF3-8" value="LDO(5V-3.3V)&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;LP5907&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;fontSize=24;fontStyle=1;labelBackgroundColor=none;html=1;fillColor=#2878b5;" vertex="1" parent="1">
           <mxGeometry x="1120" y="2170" width="190" height="90" as="geometry" />
         </mxCell>
