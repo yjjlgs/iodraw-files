@@ -695,7 +695,7 @@
         <mxCell id="Mtf_HzugU7Or4GqAyhF3-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1730" width="790" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="Mtf_HzugU7Or4GqAyhF3-21" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;USB板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Mtf_HzugU7Or4GqAyhF3-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;USB板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1700" y="1762" width="120" height="173" as="geometry" />
         </mxCell>
       </root>
