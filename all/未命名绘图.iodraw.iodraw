@@ -1,0 +1,148 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="XySpb2Yyt43mr-VHGCim">
+    <mxGraphModel dx="1976" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="720" width="430" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="70" width="430" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-3" value="STM32F0ZET6&lt;br&gt;Flash 512K&amp;nbsp; &amp;nbsp; Ram 192K&lt;br&gt;Frequency 168M" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="420" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-4" value="LED&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-5" value="PA15 LED_DBG3_PIN&#xa;PA11 LED0_PIN&#xa;PA12 LED1_PIN&#xa;PC10 LED2_PIN&#xa;PC11 LED3_PIN&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="349" y="140" width="151" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-6" value="ADG5436BUR&#xa;双通道、双刀双掷&#xa;切换三路输入电压&#xa;射频电流采集档位设定" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-7" value="PE2 PGA_ADG2_GPIO_Pin&#xa;PE3 PGA_ADG1_GPIO_Pin&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="151" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-8" value="四路拨码开关" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="750" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-9" value="PF7    Swith_Pin_0&#xa;PF8    Swith_Pin_1&#xa;PF9    Swith_Pin_2&#xa;PF10  Swith_Pin_3&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="140" width="151" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-10" value="继电器" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="950" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-11" value="磁簧继电器&#xa;PG5    ReedRelay_Pin_Rf0_A&#xa;PG4    ReedRelay_Pin_Rf1_A&#xa;PG3    ReedRelay_Pin_Rf2_A&#xa;PG2    ReedRelay_Pin_Rf3_A&#xa;PE13  ReedRelay_Pin_Rf4_A&#xa;PE14  ReedRelay_Pin_Rf5_A&#xa;PE15  ReedRelay_Pin_Rf6_A&#xa;PD10  ReedRelay_Pin_Rf7_A&#xa;PD15  ReedRelay_Pin_RFN&#xa;机械式继电器切换&#xa;PC14  MechRelay_Pin_Rf0_A&#xa;PC12  MechRelay_Pin_Rf1_A&#xa;PC7    MechRelay_Pin_Rf2_A&#xa;PG2    MechRelay_Pin_Rf3_A&#xa;PD12  MechRelay_Pin_Rf4_A&#xa;PD11  MechRelay_Pin_Rf5_A&#xa;PD8    MechRelay_Pin_Rf6_A&#xa;PD9    MechRelay_Pin_Rf7_A&#xa;PG7    MechRelay_Pin_SN&#xa;PG6    MechRelay_Pin_Rf_Stim_N&#xa;PC9    ReedRelay_Pin_Stim&#xa;刺激使用继电器&#xa;PC1    STIM_MODE_PIN&#xa;PB6    STIM_CURRENT_GEARS_Pin" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-145" width="220" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-12" value="继电器" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="220" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-13" value="PB12    CPLD_ENABLE_PIN（PWM控制）&#xa;PD13    BRAKE_CIRCUIT_PIN（刹车电阻）&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="170" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-14" value="MAX31855&#xa;温度传感器" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-15" value="软SPI&#xa;PE0    MAX31855_CS_PIN&#xa;PB8    MAX31855_SCK_PIN&#xa;PB9    MAX31855_SDO_PIN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="325" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-16" value="                      Flash&#xa;0x08008000存储软硬件版本地址&#xa;0x08008100阻抗定标数据&#xa;0x08010000APP起始地址" style="rounded=0;whiteSpace=wrap;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-17" value="测试狗" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="440" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-18" value="PE1    RF_TEST_OHM_PIN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="445" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-19" value="74LS74&#xa;PWM(TIM4)控制5V输出" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="610" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-20" value="PA0    TIM5_CH1&#xa;TIM5&#xa;84M/700 8.3us&#xa;50%占空比&#xa;不自动重载" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="615" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-21" value="ADC" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="740" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-22" value="    DMA2_Stream0&#xa;    PA1     ------&gt; ADC1_IN1       CQM&#xa;    PC4     ------&gt; ADC1_IN14    刺激电流&#xa;    PC5     ------&gt; ADC1_IN15    射频电流&#xa;    PB0     ------&gt; ADC1_IN8       刺激电压&#xa;    PB1     ------&gt; ADC1_IN9       射频电压" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="745" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-23" value="AD5230&#xa;数字电位器" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="920" y="740" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-24" value="    SPI2&#xa;    PA4     AD5230_CS_GPIO_Pin&#xa;    PB13     AD5230_SCK_GPIO_Pin&#xa;    PB15     AD5230_SDI_GPIO_Pin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="905" y="810" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-25" value="AD5230&#xa;数字电位器" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="740" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-26" value="TIM2&#xa;9333Hz=84M/9/1000&#xa;107ms&#xa;不自动重载&#xa;回调函数：PE4单双项波形" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-27" value="其他引脚" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="524.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-28" value="PD3    USB_HUB_PIN&#xa;PE4    STIM_OUT_PIN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="529.5" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-29" value="AD5761&#xa;高精度DAC&#xa;SPI控制电压" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-30" value="    SPI1&#xa;    PA6     AD5761_CS_GPIO_Pin&#xa;    PA5     AD5761_SCK_GPIO_Pin&#xa;    PA7     AD5761_SDI_GPIO_Pin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="820" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-31" value="M0-M2通讯" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-32" value="USART3&#xa;PB10     UART_2_PIN_TX&#xa;PB11     UART_2_PIN_RX&#xa;&#xa;TX_DMA&#xa;DMA1_Stream3&#xa;DMA_CHANNEL_4&#xa;&#xa;RX_DMA&#xa;DMA1_Stream1&#xa;DMA_CHANNEL_4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="810" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-33" value="M0-RF通讯" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-34" value="USART2&#xa;PA2     UART_1_PIN_TX&#xa;PA3     UART_1_PIN_RX&#xa;&#xa;TX_DMA&#xa;DMA1_Stream6&#xa;DMA_CHANNEL_4&#xa;&#xa;RX_DMA&#xa;DMA1_Stream5&#xa;DMA_CHANNEL_4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="820" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-35" value="主要作用：&#xa;发送指令；&#xa;接收指令识别（版本写入、返回Boot）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="990" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-36" value="app_task_mcu_comm" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1100" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-37" value="TIM4&#xa;40Hz=84M/16800&#xa;25ms&#xa;自动重载&#xa;无中断" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="585" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-38" value="app_logic_start" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="690" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-39" value="AD5160&#xa;数字电位器&#xa;控制AUDIO" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="510" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-40" value="软SPI&#xa;PC13     AD5160_CS_GPIO_Pin&#xa;PC4       AD5160_SCK_GPIO_Pin&#xa;PC15     AD5160_SDI_GPIO_Pin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="506.25" width="190" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-41" value="AUDIO&#xa;PWM(TIM8)" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-42" value="PC8    TIM8_CH3&#xa;TIM8（初始配置）&#xa;168Hz=168M/1000/1000≈6ms&#xa;不自动重载&#xa;10%占空比&#xa;注：设置Audio频率时依据定时器的频率重新设置对应的分频、周期及占空比参数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="370" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-43" value="射频&#xa;TIM6" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-44" value="TIM6（初始配置）&#xa;400Hz=84M/1680/125≈2.5ms&#xa;不自动重载&#xa;中断回调：&#xa;ADC值保存缓存；&#xa;调整TIM3、6周期值；&#xa;设置AD5230电位器；&#xa;控制TIM3的射频开启关闭状态；" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="267.5" width="190" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-45" value="窄脉冲&#xa;TIM3" style="rounded=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="165" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1Wy6sDyzt0qHQkb0_2z-46" value="TIM3（初始配置）&#xa;400Hz=84M/1680/125≈2.5ms&#xa;不自动重载&#xa;中断回调：&#xa;依据射频状态开启PWM；&#xa;设置自身的周期值；" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="152.5" width="190" height="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
