@@ -325,8 +325,14 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-99" value="FRAM 读取参数&#xa;fram_ReadParam" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2007.4299999999998" y="830" width="216.4" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-101" target="6nNDe1WIgZBx2zTU4vcv-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-101" value="写入 boot 启动/升级标志&#xa;fram_writebootInfo" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1984.03" y="980" width="262.57" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-103" value="初始化与 PC 上位机的串口通信&#xa;HostCmd_SerialInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1984.03" y="1130" width="262.57" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
