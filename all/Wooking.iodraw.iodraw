@@ -283,8 +283,20 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-85" value="系统参数初始化Gen_SysInfoInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2000" y="-220" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-87" target="6nNDe1WIgZBx2zTU4vcv-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-87" value="读取硬件版本Gen_getHardVersion" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2000" y="-70" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-89" target="6nNDe1WIgZBx2zTU4vcv-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-89" value="初始化系统指示灯LED_StatusLedInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="80" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-91" value="初始化系统指示灯LED_StatusLedInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="230" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
