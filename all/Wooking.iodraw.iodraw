@@ -158,7 +158,7 @@
             <mxRectangle width="203" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-52" value="应用程序" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-48">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-52" value="协议栈、中间件缓冲" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-48">
           <mxGeometry x="610" width="203" height="50" as="geometry">
             <mxRectangle width="203" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -181,7 +181,7 @@
             <mxRectangle width="203" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-57" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-53">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-57" value="大块数据缓冲" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-53">
           <mxGeometry x="610" width="203" height="50" as="geometry">
             <mxRectangle width="203" height="50" as="alternateBounds" />
           </mxGeometry>
