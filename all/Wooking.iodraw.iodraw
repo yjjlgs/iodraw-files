@@ -409,8 +409,8 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-137" value="输入检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2120.59" y="-1180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-138" value="前门开启检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; V4：PI8&lt;br&gt;&amp;nbsp; &amp;nbsp; 其他：PG14&lt;br&gt;&amp;nbsp; &amp;nbsp; 状态对应：1 = 门开，0 = 门关" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2106.6" y="-1253" width="173.4" height="64" as="geometry" />
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-138" value="前门开启检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; V4：PI8&lt;br&gt;&amp;nbsp; &amp;nbsp; 其他：PG14&lt;br&gt;&amp;nbsp; &amp;nbsp; 状态对应：1 = 门开&amp;nbsp; &amp;nbsp; 0 = 门关" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2106.6" y="-1253" width="183.4" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
