@@ -10,6 +10,9 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-3" value="STM32F427IG&lt;br&gt;&lt;div&gt;Flash&amp;nbsp;1 MB&lt;br&gt;RAM 256KB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="-1990" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-2140" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
