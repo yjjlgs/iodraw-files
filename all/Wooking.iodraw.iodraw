@@ -250,7 +250,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-73" value="设置中断向量表&lt;br&gt;0x020000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2900" y="-1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-76" value="设置中断向量表&lt;br&gt;0x020000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-76" value="设置中断组4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2900" y="-1050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
