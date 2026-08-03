@@ -355,6 +355,9 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-109" value="初始化 ADS1247 采集模块&#xa;ads1247dev_Init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1959.46" y="1640" width="312.35" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-111" target="6nNDe1WIgZBx2zTU4vcv-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-111" value="初始化蜂鸣器 PWM 定时器&#xa;bsp_beep_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1959.4600000000003" y="1790" width="312.35" height="70" as="geometry" />
         </mxCell>
@@ -362,10 +365,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-113" value="初始化 LAN PHY 与以太网 MAC/DMA&#xa;bspLan8720_Init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1959.46" y="1940" width="312.35" height="90" as="geometry" />
+          <mxGeometry x="1959.14" y="2230" width="312.35" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-115" value="初始化 CAN1 总线和滤波器&#xa;InitCAN" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1959.4600000000003" y="2110" width="312.35" height="90" as="geometry" />
+          <mxGeometry x="1959.1400000000003" y="2400" width="312.35" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-117" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1959.4600000000003" y="1940" width="312.35" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
