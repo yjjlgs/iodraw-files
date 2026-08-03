@@ -337,8 +337,14 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-103" value="初始化与 PC 上位机的串口通信&#xa;HostCmd_SerialInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1937.6499999999999" y="1130" width="355.97" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-105" target="6nNDe1WIgZBx2zTU4vcv-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-105" value="初始化帕尔贴驱动器 DRV8432 &#xa;与其保护信号&#xa;Gen_PeltModuleInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1937.6499999999996" y="1280" width="355.97" height="70" as="geometry" />
+          <mxGeometry x="1937.65" y="1280" width="355.97" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-107" value="初始化帕尔贴驱动器 DRV8432 &#xa;与其保护信号&#xa;Gen_PeltModuleInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1937.65" y="1460" width="355.97" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
