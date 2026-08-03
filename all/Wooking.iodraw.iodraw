@@ -8,7 +8,7 @@
           <mxGeometry x="10" y="-2320" width="370" height="1620" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-3" value="STM32F427IG&lt;br&gt;&lt;div&gt;Flash&amp;nbsp;1 MB&lt;br&gt;RAM 256KB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="-1290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1810" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1470" y="-2140" width="940" height="620" as="geometry" />
@@ -231,6 +231,9 @@
           <mxGeometry x="610" width="260" height="50" as="geometry">
             <mxRectangle width="260" height="50" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-68" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1425" y="-1422" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
