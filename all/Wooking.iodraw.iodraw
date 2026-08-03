@@ -397,7 +397,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-133" value="LED1_PF6&amp;nbsp; &amp;nbsp;绿色&lt;br&gt;LED2_PF7&amp;nbsp; &amp;nbsp;红色&lt;br&gt;绿灯：正常/报警状态指示&lt;br&gt;红灯：严重错误故障指示" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="1900" y="-1253" width="140" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-134" value="通过PG0-" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-134" value="通过PG0-PG4获取硬件版本" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2250" y="-77.5" width="210" height="85" as="geometry" />
         </mxCell>
       </root>
