@@ -92,10 +92,10 @@
           <mxGeometry x="1500" y="-1910" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-37" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="-1860" width="870" height="306" as="geometry" />
+          <mxGeometry x="1500" y="-1860" width="900" height="306" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-38" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-37">
-          <mxGeometry width="870" height="54" as="geometry" />
+          <mxGeometry width="900" height="54" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-39" value="区域" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-38">
           <mxGeometry width="203" height="54" as="geometry">
@@ -113,12 +113,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-42" value="用法" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-38">
-          <mxGeometry x="610" width="260" height="54" as="geometry">
-            <mxRectangle width="260" height="54" as="alternateBounds" />
+          <mxGeometry x="610" width="290" height="54" as="geometry">
+            <mxRectangle width="290" height="54" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-43" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-37">
-          <mxGeometry y="54" width="870" height="52" as="geometry" />
+          <mxGeometry y="54" width="900" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-44" value="SRAM1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-43">
           <mxGeometry width="203" height="52" as="geometry">
@@ -136,12 +136,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-47" value="系统堆（heap）、全局变量、DMA 缓冲区" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-43">
-          <mxGeometry x="610" width="260" height="52" as="geometry">
-            <mxRectangle width="260" height="52" as="alternateBounds" />
+          <mxGeometry x="610" width="290" height="52" as="geometry">
+            <mxRectangle width="290" height="52" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-37">
-          <mxGeometry y="106" width="870" height="50" as="geometry" />
+          <mxGeometry y="106" width="900" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-49" value="SRAM2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-48">
           <mxGeometry width="203" height="50" as="geometry">
@@ -159,12 +159,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-52" value="协议栈、中间件缓冲" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-48">
-          <mxGeometry x="610" width="260" height="50" as="geometry">
-            <mxRectangle width="260" height="50" as="alternateBounds" />
+          <mxGeometry x="610" width="290" height="50" as="geometry">
+            <mxRectangle width="290" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-37">
-          <mxGeometry y="156" width="870" height="50" as="geometry" />
+          <mxGeometry y="156" width="900" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-54" value="SRAM3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-53">
           <mxGeometry width="203" height="50" as="geometry">
@@ -182,12 +182,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-57" value="大块数据缓冲" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-53">
-          <mxGeometry x="610" width="260" height="50" as="geometry">
-            <mxRectangle width="260" height="50" as="alternateBounds" />
+          <mxGeometry x="610" width="290" height="50" as="geometry">
+            <mxRectangle width="290" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-58" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-37">
-          <mxGeometry y="206" width="870" height="50" as="geometry" />
+          <mxGeometry y="206" width="900" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-59" value="CCM RAM" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-58">
           <mxGeometry width="203" height="50" as="geometry">
@@ -205,12 +205,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-62" value="实时关键任务栈、硬实时变量（&lt;strong&gt;仅 CPU 访问，DMA 不可用&lt;/strong&gt;）" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-58">
-          <mxGeometry x="610" width="260" height="50" as="geometry">
-            <mxRectangle width="260" height="50" as="alternateBounds" />
+          <mxGeometry x="610" width="290" height="50" as="geometry">
+            <mxRectangle width="290" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-63" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-37">
-          <mxGeometry y="256" width="870" height="50" as="geometry" />
+          <mxGeometry y="256" width="900" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-64" value="Backup SRAM" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-63">
           <mxGeometry width="203" height="50" as="geometry">
@@ -228,8 +228,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-67" value="VBAT 供电域，存关键状态/时间戳" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-63">
-          <mxGeometry x="610" width="260" height="50" as="geometry">
-            <mxRectangle width="260" height="50" as="alternateBounds" />
+          <mxGeometry x="610" width="290" height="50" as="geometry">
+            <mxRectangle width="290" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
