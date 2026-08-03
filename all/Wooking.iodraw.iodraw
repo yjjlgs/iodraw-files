@@ -248,7 +248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-73" value="设置中断向量表&lt;br style=&quot;font-size: 24px;&quot;&gt;0x020000" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="-1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="2860" y="-1180" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-76" target="6nNDe1WIgZBx2zTU4vcv-78">
           <mxGeometry relative="1" as="geometry" />
