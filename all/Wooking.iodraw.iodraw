@@ -370,6 +370,9 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-115" value="初始化 CAN1 总线和滤波器&#xa;InitCAN" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1972.9600000000005" y="2260" width="312.35" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-117" target="6nNDe1WIgZBx2zTU4vcv-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-117" value="退出临界区&#xa;vPortExitCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1990.05" y="1940" width="250.54" height="70" as="geometry" />
         </mxCell>
