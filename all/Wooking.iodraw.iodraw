@@ -277,7 +277,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-84" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2000" y="-370" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-85" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-85" value="系统参数初始化Gen_SysInfoInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2000" y="-220" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
