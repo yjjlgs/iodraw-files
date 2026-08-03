@@ -166,7 +166,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-37">
           <mxGeometry y="156" width="813" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-54" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-53">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-54" value="SRAM3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-53">
           <mxGeometry width="203" height="50" as="geometry">
             <mxRectangle width="203" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -189,7 +189,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-58" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-37">
           <mxGeometry y="206" width="813" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-59" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-58">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-59" value="CCM RAM" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-58">
           <mxGeometry width="203" height="50" as="geometry">
             <mxRectangle width="203" height="50" as="alternateBounds" />
           </mxGeometry>
