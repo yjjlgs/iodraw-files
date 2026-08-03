@@ -88,7 +88,7 @@
             <mxRectangle width="203" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-35" value="Flash分区" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-35" value="RAM 分区" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1500" y="-1910" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
