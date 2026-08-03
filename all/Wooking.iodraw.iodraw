@@ -415,7 +415,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-139" value="初始化PH8检测引脚；" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2300" y="401.25" width="160" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-140" value="初始化PH8检测引脚；" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-140" value="初始化外部中断中断&lt;br&gt;PH9-帕尔贴风扇1&lt;br&gt;PE11- 系统风扇&lt;br&gt;PA0-搅拌风扇1&lt;br&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PH4-帕尔贴风扇2&lt;br&gt;&amp;nbsp; &amp;nbsp; PH3-空闲引脚&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2285.31" y="551.25" width="160" height="27.5" as="geometry" />
         </mxCell>
       </root>
