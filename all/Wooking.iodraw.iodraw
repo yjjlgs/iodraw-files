@@ -30,7 +30,7 @@
             <mxRectangle width="203" height="54" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-12" value="Title 2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-10">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-12" value="起始地址" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;fontSize=18;" vertex="1" parent="6nNDe1WIgZBx2zTU4vcv-10">
           <mxGeometry x="203" width="204" height="54" as="geometry">
             <mxRectangle width="204" height="54" as="alternateBounds" />
           </mxGeometry>
