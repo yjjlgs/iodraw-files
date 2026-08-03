@@ -256,8 +256,14 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-76" value="设置中断组4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2890" y="-1060" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-78" target="6nNDe1WIgZBx2zTU4vcv-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-78" value="设置SYSTICK定时器&lt;br style=&quot;font-size: 24px;&quot;&gt;延时初始化&lt;br style=&quot;font-size: 24px;&quot;&gt;delay_Init" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2835" y="-930" width="250" height="60" as="geometry" />
+          <mxGeometry x="2835" y="-930" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-80" value="设置SYSTICK定时器&lt;br style=&quot;font-size: 24px;&quot;&gt;延时初始化&lt;br style=&quot;font-size: 24px;&quot;&gt;delay_Init" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2835" y="-750" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
