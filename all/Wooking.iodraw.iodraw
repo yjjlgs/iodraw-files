@@ -379,7 +379,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-117" value="退出临界区&#xa;vPortExitCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1990.05" y="1940" width="250.54" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-120" value="进入临界区&#xa;vPortExitCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-120" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1959.4600000000007" y="2430" width="312.35" height="90" as="geometry" />
         </mxCell>
       </root>
