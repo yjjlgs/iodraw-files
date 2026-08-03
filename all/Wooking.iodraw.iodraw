@@ -269,7 +269,7 @@
           <mxGeometry x="2868.75" y="-760" width="182.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-82" value="开启调度器&lt;br&gt;vTaskStartScheduler" style="rounded=1;whiteSpace=wrap;fontSize=24;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2868.75" y="-619.5" width="182.5" height="70" as="geometry" />
+          <mxGeometry x="2844.38" y="-619.5" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
