@@ -317,9 +317,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-97" value="初始化 FRAM SPI 外设&#xa;fram_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1980.63" y="680" width="279.37" height="70" as="geometry" />
+          <mxGeometry x="1980.63" y="680" width="269.37" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-99" value="初始化 FRAM SPI 外设&#xa;fram_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-99" value="FRAM 读取参数&#xa;fram_ReadParam" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1963.6000000000001" y="830" width="304.06" height="70" as="geometry" />
         </mxCell>
       </root>
