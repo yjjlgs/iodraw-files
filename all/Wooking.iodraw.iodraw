@@ -308,7 +308,7 @@
           <mxGeometry x="1945.94" y="380" width="339.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-95" value="初始化风扇故障检测与控制Gen_FanModuleInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1945.94" y="530" width="339.37" height="70" as="geometry" />
+          <mxGeometry x="1963.6000000000001" y="530" width="304.06" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
