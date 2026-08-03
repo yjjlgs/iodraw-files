@@ -241,7 +241,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-72" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2910" y="-1270" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-73" value="设置中断向量表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-73" value="设置中断向量表&lt;br&gt;0x020000" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2900" y="-1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
