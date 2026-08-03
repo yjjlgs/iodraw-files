@@ -263,7 +263,7 @@
           <mxGeometry x="2835" y="-930" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-80" value="起始任务&lt;br&gt;start_task" style="rounded=1;whiteSpace=wrap;fontSize=24;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2835" y="-760" width="250" height="100" as="geometry" />
+          <mxGeometry x="2835" y="-760" width="205" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
