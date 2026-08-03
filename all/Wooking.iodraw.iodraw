@@ -332,7 +332,7 @@
           <mxGeometry x="1984.03" y="980" width="262.57" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-103" value="初始化与 PC 上位机的串口通信&#xa;HostCmd_SerialInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1984.03" y="1130" width="355.97" height="70" as="geometry" />
+          <mxGeometry x="1937.6499999999999" y="1130" width="355.97" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
