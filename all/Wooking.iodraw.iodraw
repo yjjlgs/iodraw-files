@@ -382,9 +382,6 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-120" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1959.4600000000007" y="2430" width="312.35" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-124" value="&lt;span style=&quot;text-align: left;&quot;&gt;1. 软件版本赋值；&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;2. 设备故障信息清零；&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;3. 故障延时时间5min；&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. 自动进入空闲初始化；&lt;br&gt;5. 温度控制模式为空气循环模式；&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2313" y="-260" width="157" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
