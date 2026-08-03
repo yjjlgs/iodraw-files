@@ -254,9 +254,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-76" value="设置中断组4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2900" y="-1060" width="140" height="60" as="geometry" />
+          <mxGeometry x="2890" y="-1060" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-78" value="设置SYSTICK定时器&lt;br&gt;延时初始化&lt;br&gt;delay_Init" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-78" value="设置SYSTICK定时器&lt;br style=&quot;font-size: 24px;&quot;&gt;延时初始化&lt;br style=&quot;font-size: 24px;&quot;&gt;delay_Init" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2900" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
