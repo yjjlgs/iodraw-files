@@ -403,7 +403,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-135" value="关闭红绿灯 LED1、LED2&lt;span style=&quot;background-color: initial;&quot;&gt;；&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2246.6" y="101.25" width="160" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-136" value="初始化前门检测引脚；" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-136" value="初始化PI8前门检测引脚；" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2271.81" y="251.25" width="160" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-137" value="输入检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
