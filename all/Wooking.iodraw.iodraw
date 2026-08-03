@@ -11,7 +11,7 @@
           <mxGeometry x="1170" y="-1990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-4" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="-2140" width="910" height="560" as="geometry" />
+          <mxGeometry x="1470" y="-2140" width="910" height="620" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-5" value="Flash分区" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1500" y="-2130" width="170" height="40" as="geometry" />
