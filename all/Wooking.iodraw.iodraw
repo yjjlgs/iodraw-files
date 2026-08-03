@@ -301,7 +301,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-91" value="初始化前门开关检测输入Gen_DoorDet_IOInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1980.63" y="230" width="270" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-93" value="初始化前门开关检测输入Gen_DoorDet_IOInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-93" value="初始化帕尔贴过温保护检测输入Gen_PeltHardOTP_IOInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1980.63" y="380" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
