@@ -232,8 +232,8 @@
             <mxRectangle width="260" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-68" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1425" y="-1422" width="50" height="30" as="geometry" />
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-68" value="系统结构图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="-1422" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
