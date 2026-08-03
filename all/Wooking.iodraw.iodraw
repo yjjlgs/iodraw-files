@@ -355,7 +355,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-109" value="初始化 ADS1247 采集模块&#xa;ads1247dev_Init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1959.46" y="1640" width="312.35" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-111" value="初始化 ADS1247 采集模块&#xa;ads1247dev_Init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-111" value="初始化蜂鸣器 PWM 定时器&#xa;bsp_beep_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1959.4600000000003" y="1790" width="312.35" height="70" as="geometry" />
         </mxCell>
       </root>
