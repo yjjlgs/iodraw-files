@@ -262,8 +262,8 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-78" value="设置SYSTICK定时器&lt;br style=&quot;font-size: 24px;&quot;&gt;延时初始化&lt;br style=&quot;font-size: 24px;&quot;&gt;delay_Init" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2835" y="-930" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-80" value="设置SYSTICK定时器&lt;br style=&quot;font-size: 24px;&quot;&gt;延时初始化&lt;br style=&quot;font-size: 24px;&quot;&gt;delay_Init" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2835" y="-750" width="250" height="100" as="geometry" />
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-80" value="&lt;div style=&quot;color: rgb(187, 190, 191); background-color: rgb(18, 19, 20); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; line-height: 22px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #d2a8ff;&quot;&gt;起始任务&lt;br/&gt;start_task&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2835" y="-760" width="250" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
