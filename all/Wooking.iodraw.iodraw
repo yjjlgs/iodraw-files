@@ -271,8 +271,14 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-82" value="开启调度器&lt;br&gt;vTaskStartScheduler" style="rounded=1;whiteSpace=wrap;fontSize=24;html=1;" vertex="1" parent="1">
           <mxGeometry x="2844.38" y="-619.5" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-84" target="6nNDe1WIgZBx2zTU4vcv-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-84" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="2000" y="-370" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-85" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="-220" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
