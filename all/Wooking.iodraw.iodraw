@@ -326,7 +326,7 @@
           <mxGeometry x="2007.4299999999998" y="830" width="216.4" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-101" value="写入 boot 启动/升级标志&#xa;fram_writebootInfo" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="2007.4299999999996" y="980" width="216.4" height="70" as="geometry" />
+          <mxGeometry x="1984.03" y="980" width="262.57" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
