@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="652" dy="2754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="2953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -421,8 +421,11 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-1" value="问题list:&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 硬件原理图&lt;br&gt;2. BSP库工程没有完全分离底层IO的原因&lt;br&gt;3. 通信协议文档&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="-462" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-2" value="风扇控制&lt;br&gt;PG5-系统风扇开机一直转动&lt;br&gt;PD4- 帕尔贴风扇1关闭&lt;br&gt;PH2-空气搅拌风扇1关闭&lt;br&gt;PI11-空气搅拌风扇2关闭&lt;br&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PE10-帕尔贴风扇2关闭&lt;br&gt;其他版本：&lt;div&gt;&amp;nbsp; &amp;nbsp; PE0-&lt;span style=&quot;background-color: initial;&quot;&gt;帕尔贴风扇2关闭&lt;br&gt;V6版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PA9TEC驱动风扇关闭&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2445.31" y="505" width="160" height="158.75" as="geometry" />
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-2" value="风扇控制&lt;br&gt;PG5-系统风扇开机一直转动&lt;br&gt;PD4- 帕尔贴风扇1关闭&lt;br&gt;PH2-空气搅拌风扇1关闭&lt;br&gt;PI11-空气搅拌风扇2关闭&lt;br&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PE10-帕尔贴风扇2关闭&lt;br&gt;其他版本：&lt;div&gt;&amp;nbsp; &amp;nbsp; PE0-&lt;span style=&quot;background-color: initial;&quot;&gt;帕尔贴风扇2关闭&lt;br&gt;V6版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PA9-TEC驱动风扇关闭&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2445.31" y="505" width="160" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-3" value="输入检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130.59" y="-1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
