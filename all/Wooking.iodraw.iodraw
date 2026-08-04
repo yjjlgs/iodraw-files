@@ -427,8 +427,8 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-3" value="外部中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1720" y="562" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-4" value="上升沿中断：&lt;br&gt;&amp;nbsp; &amp;nbsp; PH9-帕尔贴风扇1&lt;br&gt;&amp;nbsp; &amp;nbsp; PE11- 系统风扇&lt;br&gt;&amp;nbsp; &amp;nbsp; PA0-搅拌风扇1&lt;div&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PH4-帕尔贴风扇2&lt;br&gt;&amp;nbsp; &amp;nbsp; PH3-空闲引脚&lt;br&gt;其他版本：&lt;div&gt;&amp;nbsp; &amp;nbsp; PD2-帕尔贴风扇2&lt;br&gt;&amp;nbsp; &amp;nbsp; PH3-搅拌风扇2&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1719.9999999999998" y="370" width="183.4" height="120" as="geometry" />
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-4" value="上升沿中断：&lt;br&gt;&amp;nbsp; &amp;nbsp; PH9-帕尔贴风扇1&lt;br&gt;&amp;nbsp; &amp;nbsp; PE11- 系统风扇&lt;br&gt;&amp;nbsp; &amp;nbsp; PA0-搅拌风扇1&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PH4-帕尔贴风扇2&lt;br&gt;&amp;nbsp; &amp;nbsp; PH3-空闲引脚&lt;/font&gt;&lt;br&gt;其他版本：&lt;div&gt;&amp;nbsp; &amp;nbsp; PD2-帕尔贴风扇2&lt;br&gt;&amp;nbsp; &amp;nbsp; PH3-搅拌风扇2&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="370" width="183.4" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
