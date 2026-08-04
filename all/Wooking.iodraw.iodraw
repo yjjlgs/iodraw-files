@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="2412" dy="3876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="689" dy="2777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,34 +349,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-109" value="初始化 ADS1247 采集模块&#xa;ads1247dev_Init" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1959.46" y="1640" width="312.35" height="70" as="geometry" />
+          <mxGeometry x="1959.46" y="1458" width="312.35" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6nNDe1WIgZBx2zTU4vcv-111" target="6nNDe1WIgZBx2zTU4vcv-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-111" value="初始化蜂鸣器 PWM 定时器&#xa;bsp_beep_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1959.4600000000003" y="1790" width="312.35" height="70" as="geometry" />
+          <mxGeometry x="1959.4600000000003" y="1608" width="312.35" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6nNDe1WIgZBx2zTU4vcv-113" target="6nNDe1WIgZBx2zTU4vcv-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-113" value="初始化 LAN PHY 与以太网 MAC/DMA&#xa;bspLan8720_Init" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1959.46" y="2090" width="312.35" height="90" as="geometry" />
+          <mxGeometry x="1959.46" y="1908" width="312.35" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6nNDe1WIgZBx2zTU4vcv-115" target="6nNDe1WIgZBx2zTU4vcv-120" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-115" value="初始化 CAN1 总线和滤波器&#xa;InitCAN" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1959.4600000000005" y="2260" width="312.35" height="90" as="geometry" />
+          <mxGeometry x="1959.4600000000005" y="2078" width="312.35" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="6nNDe1WIgZBx2zTU4vcv-117" target="6nNDe1WIgZBx2zTU4vcv-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-117" value="退出临界区&#xa;vPortExitCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1990.05" y="1940" width="250.54" height="70" as="geometry" />
+          <mxGeometry x="1990.05" y="1758" width="250.54" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-120" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1959.4600000000007" y="2430" width="312.35" height="90" as="geometry" />
+          <mxGeometry x="1959.4600000000007" y="2248" width="312.35" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-127" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;1. 软件版本赋值；&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;2. 设备故障信息清零；&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;3. 故障延时时间5min；&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;4. 自动进入空闲初始化；&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;5. 温度控制模式为空气循环模式；&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="2250" y="-235" width="210" height="85" as="geometry" />
