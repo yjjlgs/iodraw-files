@@ -477,7 +477,7 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-22" value="蜂鸣器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140.59" y="1465" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-23" value="Timer12蜂鸣器PWM初始化：&#xa;    Per：666&#xa;    Psc：45000&#xa;    周期：3.003Hz ≈ 90MHz / 45000 / 666 ≈333ms &#xa;    PWM引脚：PH6-TIM12_CH1&#xa;    蜂鸣器开启：占空比50%&#xa;    中断回调：beep_timer_irq_handler-15" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-23" value="PWM引脚：PH6-TIM12_CH1" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="1080" y="1550" width="274.69" height="110" as="geometry" />
         </mxCell>
       </root>
