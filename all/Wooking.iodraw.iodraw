@@ -348,8 +348,8 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6nNDe1WIgZBx2zTU4vcv-109" target="6nNDe1WIgZBx2zTU4vcv-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-109" value="初始化 ADS1247 采集模块&#xa;ads1247dev_Init" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="1959.14" y="1458" width="312.35" height="70" as="geometry" />
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-109" value="初始化 ADS1247 采集&#xa;PT100模块&#xa;ads1247dev_Init" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="1959.14" y="1458" width="312.35" height="82" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6nNDe1WIgZBx2zTU4vcv-111" target="6nNDe1WIgZBx2zTU4vcv-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
