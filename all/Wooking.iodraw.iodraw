@@ -459,7 +459,7 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-15" value="&lt;div&gt;接口：USART1&lt;br&gt;波特率：38400&lt;br&gt;引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4&lt;br&gt;通道：DMA_Channel_4&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="997.5" width="288.19" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-17" value="&lt;div&gt;ADS1247芯片初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; PI10-复位芯片引脚-复位芯片；&lt;br&gt;&amp;nbsp; &amp;nbsp; PE9-开始转换引脚-停止转换；&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-17" value="&lt;div&gt;ADS1247芯片初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; PI10-复位芯片引脚-复位芯片；&lt;br&gt;&amp;nbsp; &amp;nbsp; PE9-开始转换引脚-停止转换；&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2313" y="1443.62" width="257" height="98.75" as="geometry" />
         </mxCell>
       </root>
