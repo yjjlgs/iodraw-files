@@ -489,6 +489,9 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-27" value="CAN数组队列初始化&#xa;CAN从设备初始化：&#xa;    引脚：&#xa;        PD0-CAN_RX&#xa;        PD1-CAN_TX&#xa;    速率：1Mbps&#xa;CAN过滤器配置：&#xa;    1. 发送/接收必须使用扩展 29-bit ID&#xa;    2. 帧的目的地址字段必须是 0x22（本机）或 0（广播）&#xa;    3. 标准帧（11-bit）或远程帧（RTR=1）不会通过当前默认滤波策略&#xa;中断：CAN1_RX0_IRQn/CAN1_TX_IRQn-6&#xa;    " style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2276.47" y="2068" width="373.53" height="172" as="geometry" />
         </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-28" value="网口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1465" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
