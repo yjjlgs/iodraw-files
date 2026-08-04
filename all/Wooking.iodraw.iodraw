@@ -449,7 +449,10 @@
           <mxGeometry x="2260" y="820" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-11" value="&lt;div&gt;FRAM_Boot参数重置&lt;br&gt;1. 升级状态、次数、APP状态参数写入；&lt;br&gt;2. 设备ID写入；&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="960" width="270" height="60" as="geometry" />
+          <mxGeometry x="2260" y="985" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-12" value="&lt;div&gt;FRAM_Boot参数重置&lt;br&gt;1. 升级状态、次数、APP状态参数写入；&lt;br&gt;2. 设备ID写入；&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2335.31" y="1135" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
