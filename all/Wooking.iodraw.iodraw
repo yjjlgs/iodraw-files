@@ -508,7 +508,7 @@
           <mxGeometry x="-560" y="2440" width="231.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-36" value="温控结构体清零并初始化为初始状态" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="2400" width="240" height="30" as="geometry" />
+          <mxGeometry x="-310" y="2460" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
