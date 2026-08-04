@@ -486,7 +486,7 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-25" value="LAN_RMII初始化：&#xa;    PA2-ETH_MDIO&#xa;    PC1-ETH_MDC&#xa;    PA1-ETH_RMII_REF_CLK&#xa;    PA7-ETH_RMII_CRS_DV&#xa;    PC4-ETH_RMII_RXD0&#xa;    PC5-ETH_RMII_RXD1&#xa;    PB11-ETH_RMII_TX_EN&#xa;    PB12-ETH_RMII_TXD0&#xa;    PB13-ETH_RMII_TXD1&#xa;    PC3-ETH_RESET" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="832.66" y="1540" width="174.69" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-27" value="CAN数组队列初始化&#xa;CAN从设备初始化：&#xa;    引脚：&#xa;        PD0-CAN_RX&#xa;        PD1-CAN_TX&#xa;    速率：1Mbps&#xa;CAN过滤器配置：&#xa;    1. 发送/接收必须使用扩展 29-bit ID&#xa;    2. 帧的目的地址字段必须是 0x22（本机）或 0（广播）&#xa;    3. 标准帧（11-bit）或远程帧（RTR=1）不会通过当前默认滤波策略&#xa;中断：CAN1_RX0_IRQn/CAN1_TX_IRQn - 6&#xa;    " style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-27" value="CAN数组队列初始化&#xa;CAN从设备初始化：&#xa;    引脚：&#xa;        PD0-CAN_RX&#xa;        PD1-CAN_TX&#xa;    速率：1Mbps&#xa;CAN过滤器配置：&#xa;    1. 发送/接收必须使用扩展 29-bit ID&#xa;    2. 帧的目的地址字段必须是 0x22（本机）或 0（广播）&#xa;    3. 标准帧（11-bit）或远程帧（RTR=1）不会通过当前默认滤波策略&#xa;中断：CAN1_RX0_IRQn/CAN1_TX_IRQn-6&#xa;    " style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2276.47" y="2068" width="373.53" height="152" as="geometry" />
         </mxCell>
       </root>
