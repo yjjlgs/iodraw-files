@@ -448,7 +448,7 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-10" value="&lt;div&gt;FRAM_APP参数读取&lt;br&gt;1. 检查FRAM是否可用；&lt;br&gt;2. 判断首次启动，读取或写入默认参数；&lt;br&gt;3. PID参数&lt;br&gt;4. 产品系列参数；&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2260" y="820" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-11" value="&lt;div&gt;FRAM参数读取&lt;br&gt;1. 检查FRAM是否可用；&lt;br&gt;2. 判断首次启动，读取或写入默认参数；&lt;br&gt;3. PID参数&lt;br&gt;4. 产品系列参数；&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-11" value="&lt;div&gt;FRAM_Boot参数充值&lt;br&gt;1. 检查FRAM是否可用；&lt;br&gt;2. 判断首次启动，读取或写入默认参数；&lt;br&gt;3. PID参数&lt;br&gt;4. 产品系列参数；&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2260" y="960" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
