@@ -460,7 +460,7 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-14" value="PC上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-15" value="&lt;div&gt;接口：USART1&lt;br&gt;&amp;nbsp; &amp;nbsp; 波特率：38400&lt;br&gt;&amp;nbsp; &amp;nbsp; 引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;&amp;nbsp; &amp;nbsp; DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4&lt;br&gt;&amp;nbsp; &amp;nbsp; 通道：DMA_Channel_4&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-15" value="&lt;div&gt;接口：USART1&lt;br&gt;波特率：38400&lt;br&gt;引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4&lt;br&gt;通道：DMA_Channel_4&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="985" width="288.19" height="148.12" as="geometry" />
         </mxCell>
       </root>
