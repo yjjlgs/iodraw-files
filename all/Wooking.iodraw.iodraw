@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="832" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1206" dy="3107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -455,7 +455,7 @@
           <mxGeometry x="2320" y="1102.5" width="324.69" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-13" value="输入检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; PG7-第一片电流驱动芯片错误检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; PG11-第二片电流驱动芯片错误检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; V4/V5：&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PG6-第一片电流驱动芯片过温保护检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PG10-第二片电流驱动芯片过温保护检测；&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2310" y="1261.25" width="324.69" height="98.75" as="geometry" />
+          <mxGeometry x="2313" y="1281.25" width="257" height="98.75" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-14" value="PC上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1010" width="120" height="60" as="geometry" />
