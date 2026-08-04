@@ -457,7 +457,7 @@
           <mxGeometry x="2992.35" y="1029.5" width="324.69" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-13" value="输入检测初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; PG7-电流驱动芯片1错误检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; PG11-电流驱动芯片2错误检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; V4/V5：&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PG6-电流驱动芯片1过温保护检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PG10-电流驱动芯片2过温保护检测；&lt;br&gt;DRV8432芯片重启引脚设置&lt;br&gt;&amp;nbsp; &amp;nbsp; PG8-&lt;span style=&quot;background-color: initial;&quot;&gt;电流驱动芯片1AB置高&lt;br&gt;&amp;nbsp; &amp;nbsp; PG9-&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电流驱动芯片1CD置高&lt;br&gt;&amp;nbsp; &amp;nbsp; PG12&lt;/span&gt;-&lt;span style=&quot;background-color: initial;&quot;&gt;电流驱动芯片2AB置高&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; PG13&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;电流驱动芯片2CD置高&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2985.35" y="1208.25" width="257" height="98.75" as="geometry" />
+          <mxGeometry x="2972.35" y="1200" width="257" height="170" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-14" value="PC上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1329" width="120" height="60" as="geometry" />
