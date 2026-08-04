@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="1723" dy="3437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1005" dy="2979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -454,8 +454,11 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-12" value="接收队列：io_rx_queue 深度：80&lt;br&gt;发送队列：io_tx_queue 深度：80&lt;br&gt;串口初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; 接口：USART1 &lt;br&gt;&amp;nbsp; &amp;nbsp; 波特率：38400 &lt;br&gt;&amp;nbsp; &amp;nbsp; 引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;&amp;nbsp; &amp;nbsp; DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4&lt;br&gt;&amp;nbsp; &amp;nbsp; 通道：DMA_Channel_4&lt;br&gt;&amp;nbsp; &amp;nbsp; 缓冲区：TX_128&amp;nbsp; RX_256" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1102.5" width="324.69" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-13" value="接收队列：io_rx_queue 深度：80&lt;br&gt;发送队列：io_tx_queue 深度：80&lt;br&gt;串口初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; 接口：USART1 &lt;br&gt;&amp;nbsp; &amp;nbsp; 波特率：38400 &lt;br&gt;&amp;nbsp; &amp;nbsp; 引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;&amp;nbsp; &amp;nbsp; DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4&lt;br&gt;&amp;nbsp; &amp;nbsp; 通道：DMA_Channel_4&lt;br&gt;&amp;nbsp; &amp;nbsp; 缓冲区：TX_128&amp;nbsp; RX_256" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-13" value="" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2310" y="1261.25" width="324.69" height="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-14" value="PC上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
