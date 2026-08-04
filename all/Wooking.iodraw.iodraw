@@ -463,7 +463,10 @@
           <mxGeometry x="2285.31" y="1390" width="257" height="210" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-18" value="Timer12蜂鸣器PWM初始化：&#xa;    Per：666&#xa;    Psc：45000&#xa;    周期：3.003Hz ≈ 90MHz / 45000 / 666 ≈333ms &#xa;    PWM引脚：PH6-TIM12_CH1&#xa;    蜂鸣器开启：占空比50%&#xa;    中断回调：beep_timer_irq_handler-15" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2285.31" y="1600" width="274.69" height="98.75" as="geometry" />
+          <mxGeometry x="2285.31" y="1600" width="274.69" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-19" value="Timer12蜂鸣器PWM初始化：&#xa;    Per：666&#xa;    Psc：45000&#xa;    周期：3.003Hz ≈ 90MHz / 45000 / 666 ≈333ms &#xa;    PWM引脚：PH6-TIM12_CH1&#xa;    蜂鸣器开启：占空比50%&#xa;    中断回调：beep_timer_irq_handler-15" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2295.31" y="1610" width="274.69" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
