@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="3227" dy="3876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1970" dy="3070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,8 +504,11 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-32" value="start_task" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="3048.35" y="-540" width="194" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-35" value="temp_ctrl_param_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-35" value="温度控制参数初始化&#xa;temp_ctrl_param_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-560" y="2440" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-36" value="CAN数组队列初始化&#xa;CAN从设备初始化：&#xa;    引脚：&#xa;        PD0-CAN_RX&#xa;        PD1-CAN_TX&#xa;    速率：1Mbps&#xa;CAN过滤器配置：&#xa;    1. 发送/接收必须使用扩展 29-bit ID&#xa;    2. 帧的目的地址字段必须是 0x22（本机）或 0（广播）&#xa;    3. 标准帧（11-bit）或远程帧（RTR=1）不会通过当前默认滤波策略&#xa;中断：CAN1_RX0_IRQn/CAN1_TX_IRQn-6&#xa;    " style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-300.00000000000045" y="2400" width="373.53" height="172" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
