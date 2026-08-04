@@ -504,11 +504,17 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-32" value="start_task" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="3048.35" y="-540" width="194" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DMyVdjie7I1hu4mO-Rp6-35" target="DMyVdjie7I1hu4mO-Rp6-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-35" value="温度控制参数初始化&#xa;temp_ctrl_param_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-560" y="2440" width="231.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-36" value="温控结构体清零并初始化为初始状态" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-310" y="2460" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-37" value="while循环" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="2590" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
