@@ -454,7 +454,7 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-12" value="接收队列：io_rx_queue 深度：80&lt;br&gt;发送队列：io_tx_queue 深度：80&lt;br&gt;串口初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; 接口：USART1 &lt;br&gt;&amp;nbsp; &amp;nbsp; 波特率：38400 &lt;br&gt;&amp;nbsp; &amp;nbsp; 引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;&amp;nbsp; &amp;nbsp; DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4&lt;br&gt;&amp;nbsp; &amp;nbsp; 通道：DMA_Channel_4&lt;br&gt;&amp;nbsp; &amp;nbsp; 缓冲区：TX_128&amp;nbsp; RX_256" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1102.5" width="324.69" height="137.5" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-13" value="" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-13" value="输入检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; PG6" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2310" y="1261.25" width="324.69" height="137.5" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-14" value="PC上位机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
