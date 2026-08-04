@@ -505,7 +505,7 @@
           <mxGeometry x="3048.35" y="-540" width="194" height="42" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-35" value="进入临界区&#xa;vPortEnterCritical" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="2560" width="231.25" height="70" as="geometry" />
+          <mxGeometry x="-560" y="2440" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
