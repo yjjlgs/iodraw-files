@@ -345,11 +345,6 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-105" value="初始化帕尔贴驱动器 DRV8432 &#xa;与其保护信号&#xa;Gen_PeltModuleInit" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1937.65" y="1280" width="355.97" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="6nNDe1WIgZBx2zTU4vcv-109" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2115.635" y="1560" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6nNDe1WIgZBx2zTU4vcv-109" target="6nNDe1WIgZBx2zTU4vcv-111" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
