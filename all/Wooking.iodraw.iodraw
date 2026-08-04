@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="2000" dy="3620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3000" dy="4261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,6 +270,9 @@
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-80" value="起始任务&lt;br&gt;start_task" style="rounded=1;whiteSpace=wrap;fontSize=24;html=1;" parent="1" vertex="1">
           <mxGeometry x="2716.1" y="-890" width="182.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6nNDe1WIgZBx2zTU4vcv-82" target="6nNDe1WIgZBx2zTU4vcv-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-82" value="开启调度器&lt;br&gt;vTaskStartScheduler" style="rounded=1;whiteSpace=wrap;fontSize=24;html=1;" parent="1" vertex="1">
           <mxGeometry x="2691.73" y="-749.5" width="231.25" height="70" as="geometry" />
