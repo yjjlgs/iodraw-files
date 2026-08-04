@@ -410,7 +410,7 @@
           <mxGeometry x="1280.5900000000001" y="562" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-138" value="前门开启检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;font color=&quot;#ff0000&quot;&gt;V4：PI8&lt;/font&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;font color=&quot;#00ff00&quot;&gt;其他：PG14&lt;/font&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 状态对应：1 = 门开&amp;nbsp; &amp;nbsp; 0 = 门关&lt;div&gt;帕尔贴温度过温保护检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; 检测引脚：PH8&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;font color=&quot;#ff0000&quot;&gt;V4/V5: 1 = 正常 0= 断开&lt;/font&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;font color=&quot;#00ff00&quot;&gt;V6: 0 = 正常 1 = 断开&lt;/font&gt;&lt;br&gt;帕尔贴电流驱动芯片检测&lt;font color=&quot;#00ff00&quot;&gt;：&lt;br&gt;&lt;/font&gt;&amp;nbsp; &amp;nbsp; PG7-第一片电流驱动芯片错误检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; PG11-第二片电流驱动芯片错误检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;font color=&quot;#ff0000&quot;&gt;V4/V5：&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PG6-第一片电流驱动芯片过温保护检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PG10-第二片电流驱动芯片过温保护检测；&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="278.75" width="260" height="262" as="geometry" />
+          <mxGeometry x="1200" y="291" width="260" height="262" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-139" value="初始化PH8检测引脚；" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="2300" y="401.25" width="160" height="27.5" as="geometry" />
@@ -462,6 +462,9 @@
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-15" value="&lt;div&gt;接口：USART1&lt;br&gt;波特率：38400&lt;br&gt;引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4&lt;br&gt;通道：DMA_Channel_4&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="1600" y="997.5" width="288.19" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-16" value="输入检测初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; PG7-第一片电流驱动芯片错误检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; PG11-第二片电流驱动芯片错误检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; V4/V5：&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PG6-第一片电流驱动芯片过温保护检测；&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; PG10-第二片电流驱动芯片过温保护检测；&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2323" y="1291.25" width="257" height="98.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
