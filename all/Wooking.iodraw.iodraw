@@ -418,8 +418,8 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-140" value="初始化外部中断中断&lt;br&gt;PH9-帕尔贴风扇1&lt;br&gt;PE11- 系统风扇&lt;br&gt;PA0-搅拌风扇1&lt;br&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PH4-帕尔贴风扇2&lt;br&gt;&amp;nbsp; &amp;nbsp; PH3-空闲引脚&lt;br&gt;其他版本：&lt;div&gt;&amp;nbsp; &amp;nbsp; PD2-帕尔贴风扇2&lt;br&gt;&amp;nbsp; &amp;nbsp; PH3-搅拌风扇2&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="2285.31" y="505" width="160" height="158.75" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="-442" width="50" height="30" as="geometry" />
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-1" value="问题list:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. 硬件原理图&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-447" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
