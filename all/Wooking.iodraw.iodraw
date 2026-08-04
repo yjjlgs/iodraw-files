@@ -471,7 +471,7 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-20" value="ADS1247&lt;br&gt;采集PT100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1465" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-21" value="&lt;div&gt;ADS1247芯片初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; PI10-复位芯片引脚；&lt;br&gt;&amp;nbsp; &amp;nbsp; PE9-开始转换引脚；&lt;br&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;接口：SPI1 模式1&lt;/span&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;PB3-SCK&lt;br&gt;&amp;nbsp; &amp;nbsp; PB4-MISO&lt;br&gt;&amp;nbsp; &amp;nbsp; PB5-MOSI&lt;br&gt;&amp;nbsp; &amp;nbsp; PPA15-CS&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-21" value="&lt;div&gt;ADS1247芯片初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; PI10-复位芯片引脚；&lt;br&gt;&amp;nbsp; &amp;nbsp; PE9-开始转换引脚；&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;接口：SPI1 模式1&lt;/span&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;PB3-SCK&lt;br&gt;&amp;nbsp; &amp;nbsp; PB4-MISO&lt;br&gt;&amp;nbsp; &amp;nbsp; PB5-MOSI&lt;br&gt;&amp;nbsp; &amp;nbsp; PPA15-CS&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="1430" width="257" height="130" as="geometry" />
         </mxCell>
       </root>
