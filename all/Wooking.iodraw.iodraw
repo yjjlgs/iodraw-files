@@ -451,7 +451,7 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-11" value="&lt;div&gt;FRAM_Boot参数重置&lt;br&gt;1. 升级状态、次数、APP状态参数写入；&lt;br&gt;2. 设备ID写入；&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2260" y="985" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-12" value="接收队列：io_rx_queue 深度：80&lt;br&gt;发送队列：io_tx_queue 深度：80&lt;br&gt;串口初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; 接口：USART1 &lt;br&gt;&amp;nbsp; &amp;nbsp; 波特率：38400 &lt;br&gt;&amp;nbsp; &amp;nbsp; 引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;&amp;nbsp; &amp;nbsp; DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-12" value="接收队列：io_rx_queue 深度：80&lt;br&gt;发送队列：io_tx_queue 深度：80&lt;br&gt;串口初始化：&lt;br&gt;&amp;nbsp; &amp;nbsp; 接口：USART1 &lt;br&gt;&amp;nbsp; &amp;nbsp; 波特率：38400 &lt;br&gt;&amp;nbsp; &amp;nbsp; 引脚：TX_PB6&amp;nbsp; RX _PB7&lt;br&gt;&amp;nbsp; &amp;nbsp; DMA ：TX_DMA2_Stream7&amp;nbsp; RX_DMA2_Stream4&lt;br&gt;&amp;nbsp; &amp;nbsp; 通道：&lt;span style=&quot;color: rgb(86, 156, 214); background-color: rgb(18, 19, 20); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 16px; white-space: pre;&quot;&gt;DMA_Channel_4&lt;/span&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" vertex="1" parent="1">
           <mxGeometry x="2335.31" y="1135" width="324.69" height="115" as="geometry" />
         </mxCell>
       </root>
