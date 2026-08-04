@@ -466,7 +466,7 @@
           <mxGeometry x="2285.31" y="1600" width="274.69" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-19" value="以太网配置初始化&#xa;LAN_RMII初始化：&#xa;    PA2-ETH_MDIO&#xa;    PC1-ETH_MDC&#xa;    PA1-ETH_RMII_REF_CLK&#xa;    PA7-ETH_RMII_CRS_DV&#xa;    PC4-ETH_RMII_RXD0&#xa;    PC5-ETH_RMII_RXD1&#xa;    PB11-ETH_RMII_TX_EN&#xa;    PB12-ETH_RMII_TXD0&#xa;    PB13-ETH_RMII_TXD1&#xa;    PC3-ETH_RESET" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2276.47" y="1898" width="274.69" height="172" as="geometry" />
+          <mxGeometry x="2276.47" y="1867" width="274.69" height="183" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
