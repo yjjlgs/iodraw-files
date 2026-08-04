@@ -424,8 +424,8 @@
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-2" value="风扇控制&lt;br&gt;PG5-系统风扇开机一直转动&lt;br&gt;PD4- 帕尔贴风扇1关闭&lt;br&gt;PH2-空气搅拌风扇1关闭&lt;br&gt;PI11-空气搅拌风扇2关闭&lt;br&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PE10-帕尔贴风扇2关闭&lt;br&gt;其他版本：&lt;div&gt;&amp;nbsp; &amp;nbsp; PE0-&lt;span style=&quot;background-color: initial;&quot;&gt;帕尔贴风扇2关闭&lt;br&gt;V6版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PA9-TEC驱动风扇关闭&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="2445.31" y="505" width="160" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-3" value="输入检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2130.59" y="-1170" width="120" height="60" as="geometry" />
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-3" value="外部中断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="-1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
