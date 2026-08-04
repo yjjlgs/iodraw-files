@@ -409,7 +409,7 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-137" value="输入检测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1540.5900000000001" y="562" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nNDe1WIgZBx2zTU4vcv-138" value="前门开启检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; V4：PI8&lt;br&gt;&amp;nbsp; &amp;nbsp; 其他：PG14&lt;br&gt;&amp;nbsp; &amp;nbsp; 状态对应：1 = 门开&amp;nbsp; &amp;nbsp; 0 = 门关&lt;div&gt;帕尔贴温度过温保护检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; 检测引脚：PH8&lt;br&gt;&amp;nbsp; &amp;nbsp; V4/V5: 1 = 正常 0= 断开&lt;br&gt;&amp;nbsp; &amp;nbsp; V6: 0 = 正常 1 = 断开&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" parent="1" vertex="1">
+        <mxCell id="6nNDe1WIgZBx2zTU4vcv-138" value="前门开启检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;font color=&quot;#ff0000&quot;&gt;V4：PI8&lt;/font&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &lt;font color=&quot;#00ff00&quot;&gt;其他：PG14&lt;/font&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; 状态对应：1 = 门开&amp;nbsp; &amp;nbsp; 0 = 门关&lt;div&gt;帕尔贴温度过温保护检测：&lt;br&gt;&amp;nbsp; &amp;nbsp; 检测引脚：PH8&lt;br&gt;&amp;nbsp; &amp;nbsp; V4/V5: 1 = 正常 0= 断开&lt;br&gt;&amp;nbsp; &amp;nbsp; V6: 0 = 正常 1 = 断开&lt;/div&gt;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;html=1;" parent="1" vertex="1">
           <mxGeometry x="1521.9099999999999" y="422" width="183.4" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-139" value="初始化PH8检测引脚；" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" parent="1" vertex="1">
