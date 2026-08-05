@@ -568,7 +568,7 @@
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-19" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSxUXFhamJTqSKK6I_kl-18">
           <mxGeometry x="-0.708" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-12" value="判断ePIDAutoStage!=PID_AUTO_STAGE_IDLE&#xa;是否自整定正在进行但被外部关闭" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
@@ -576,6 +576,9 @@
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-17" value="temp_ctrl_auto" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-170" y="2910" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-20" value="temp_ctrl_auto" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="3120" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
