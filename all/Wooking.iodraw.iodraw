@@ -603,14 +603,16 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-24" value="ucFlagErrStopCtrlTemp 置 1" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="3155" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-27" target="YSxUXFhamJTqSKK6I_kl-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-960" y="3350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-27" value="判断设备没有启动控温或错误停控" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="3310" width="256" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-29" value="ucFlagErrStopCtrlTemp 置 1" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1210" y="3315" width="250" height="70" as="geometry" />
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-31" value="正常控制温度流程&#xa;temp_ctrl_normal" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="3270" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
