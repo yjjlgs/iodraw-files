@@ -1064,6 +1064,9 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-287" value="进入&#xa;温度不平衡判定阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1203.6299999999997" y="6260" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-289" value="10S判断一次&#xa;当前温度与设定温度之差小于1&#xa;且误差变化率小于0.06" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1206" y="5810" width="256" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
