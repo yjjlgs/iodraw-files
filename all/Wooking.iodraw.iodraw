@@ -743,7 +743,7 @@
           <mxGeometry x="-880" y="4870" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-72" value="清空上一次误差&#xa;清空模糊PID相关计数&#xa;进入获取一次温度阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="4875" width="241.25" height="70" as="geometry" />
+          <mxGeometry x="-1180" y="4862.5" width="251.25" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
