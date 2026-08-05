@@ -689,7 +689,7 @@
             <Array as="points">
               <mxPoint x="-1076" y="4210" />
               <mxPoint x="-1360" y="4210" />
-              <mxPoint x="-1360" y="5060" />
+              <mxPoint x="-1360" y="6190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -735,6 +735,9 @@
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-63" value="获取当前柱温箱温度" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-867.6299999999998" y="4730" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-70" value="检测设定温度是否变化" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="4590" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
