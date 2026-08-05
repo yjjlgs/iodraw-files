@@ -617,7 +617,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-31" value="发送设备IDLE&#xa;工作状态至PC" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="3315" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-32" value="发送设备IDLE&#xa;工作状态至PC" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-32" value="eTemperCtrlStage" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="3465" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
