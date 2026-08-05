@@ -1170,8 +1170,8 @@
         <mxCell id="g15bAf1D5xvvrJLGXak2-17" value="判断模糊PID是否使能" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1556.01" y="7970" width="256" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g15bAf1D5xvvrJLGXak2-19" value="fKpChange、fKiChange、fKdChange 置 0" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1885" y="7967.5" width="231.25" height="85" as="geometry" />
+        <mxCell id="g15bAf1D5xvvrJLGXak2-19" value="fKpChange、fKiChange、fKdChange 置 0&#xa;坐标设为中间值" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1885" y="7967.5" width="231.25" height="112.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
