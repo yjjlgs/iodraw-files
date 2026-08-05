@@ -862,7 +862,7 @@
             <mxRectangle width="93" height="32" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-224" value="Value 2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="YSxUXFhamJTqSKK6I_kl-222">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-224" value="纯滞后时间" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="YSxUXFhamJTqSKK6I_kl-222">
           <mxGeometry x="93" width="94" height="32" as="geometry">
             <mxRectangle width="94" height="32" as="alternateBounds" />
           </mxGeometry>
