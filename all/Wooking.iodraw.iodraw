@@ -971,7 +971,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-254" value="依据加热/制冷选择对应参数进行Cohen/Lambda整定算法" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1910" y="5700" width="311.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-255" value="切换为加热状态" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-255" value="数据离散化" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1869.9999999999995" y="5820" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
