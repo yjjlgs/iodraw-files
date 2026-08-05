@@ -739,11 +739,17 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-63" value="获取当前柱温箱温度" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-867.6299999999998" y="4730" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-70" target="YSxUXFhamJTqSKK6I_kl-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-70" value="判断温度控制阶段是否为&#xa;空闲阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="4870" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-72" value="清空上一次误差&#xa;清空模糊PID相关计数&#xa;进入获取一次温度阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1180" y="4862.5" width="251.25" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-74" value="判断温度控制阶段是否为&#xa;空闲阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="5010" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
