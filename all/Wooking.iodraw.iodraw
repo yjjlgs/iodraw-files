@@ -1061,11 +1061,14 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-285" value="计数、状态清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1203.6299999999997" y="6110" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-287" target="YSxUXFhamJTqSKK6I_kl-289">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-287" value="进入&#xa;温度不平衡判定阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1203.6299999999997" y="6260" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-289" value="10S判断一次&#xa;当前温度与设定温度之差小于1&#xa;且误差变化率小于0.06" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1206" y="5810" width="256" height="80" as="geometry" />
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-289" value="当前温度与设定温度对比判定&#xa;切换加热制冷状态" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1216" y="6400" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
