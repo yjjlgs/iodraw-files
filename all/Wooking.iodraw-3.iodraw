@@ -1087,6 +1087,9 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-291" value="当前温度与设定温度对比判定&#xa;切换工作状态-加热制冷&#xa;发送至PC上位机" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-1244.81" y="6410" width="313.63" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="g15bAf1D5xvvrJLGXak2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-297" target="g15bAf1D5xvvrJLGXak2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-297" value="判断温度控制阶段是否为&#xa;温度不平衡判定阶段" style="rhombus;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-880" y="6630" width="256" height="80" as="geometry" />
         </mxCell>
@@ -1114,7 +1117,7 @@
           <mxGeometry x="-1203.62" y="6910" width="231.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="g15bAf1D5xvvrJLGXak2-1" value="进入&#xa;温度不平衡判定阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1193.6199999999997" y="6780" width="231.25" height="70" as="geometry" />
+          <mxGeometry x="-867.6299999999995" y="7140" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
