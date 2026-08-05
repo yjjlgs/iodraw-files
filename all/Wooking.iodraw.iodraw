@@ -621,6 +621,11 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-27" target="YSxUXFhamJTqSKK6I_kl-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-57" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSxUXFhamJTqSKK6I_kl-44">
+          <mxGeometry x="-0.954" y="4" relative="1" as="geometry">
+            <mxPoint x="8" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-27" value="判断设备没有启动控温或错误停控" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="3310" width="256" height="80" as="geometry" />
         </mxCell>
