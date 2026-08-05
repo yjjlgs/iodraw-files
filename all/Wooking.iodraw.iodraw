@@ -830,7 +830,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-98" value="切换为加热状态" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1543.6299999999997" y="5470" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-100" value="PID_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-100" value="PID参数初始化&#xa;PID_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1543.6299999999997" y="5600" width="231.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-217" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
