@@ -802,7 +802,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-88" value="判断上一次温度大于设定温度&#xa;且当前温度大于设定温度" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1216" y="5330" width="256" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-94" value="判断" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-94" value="判断结构版本号是否&#xa;为带制冷版本" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1216" y="5490" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
