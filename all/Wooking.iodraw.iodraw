@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="3368" dy="3437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2854" dy="3107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -608,6 +608,11 @@
             <mxPoint x="-960" y="3350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-55" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSxUXFhamJTqSKK6I_kl-30">
+          <mxGeometry x="0.1" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-27" target="YSxUXFhamJTqSKK6I_kl-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -670,11 +675,14 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-49" value="自动空闲计数清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.2399999999998" y="4420" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-51" target="YSxUXFhamJTqSKK6I_kl-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-51" value="检测设定温度是否变化" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="4580" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-53" value="自动空闲计数清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1181.2399999999998" y="4430" width="231.25" height="70" as="geometry" />
+          <mxGeometry x="-1191.2399999999998" y="4585" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
