@@ -1046,6 +1046,9 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-281" value="10S判断一次&#xa;当前温度与设定温度之差小于1&#xa;且误差变化率小于0.06" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1216" y="5800" width="256" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-283" value="PID参数初始化&#xa;PID_init" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1533.6299999999997" y="5842.5" width="231.25" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
