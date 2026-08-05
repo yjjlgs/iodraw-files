@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="4054" dy="3876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3654" dy="3620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -421,8 +421,8 @@
         <mxCell id="6nNDe1WIgZBx2zTU4vcv-140" value="初始化外部上升沿中断&#xa;PH9-帕尔贴风扇1-fan_pelt1_irq_handler-15&#xa;PE11- 系统风扇-fan_sys_irq_handler-15&#xa;PA0-搅拌风扇1-fan_stir1_irq_handler-15&#xa;V4版本：&#xa;    PH4-帕尔贴风扇2-fan_pelt2_irq_handler-15&#xa;    PH3-空闲引脚&#xa;其他版本：&#xa;    PD2-帕尔贴风扇2-fan_pelt2_irq_handler-15&#xa;    PH3-搅拌风扇2-fan_stir2_irq_handler-15&#xa;&#xa;&#xa;" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="3104.16" y="416" width="328.19" height="158.75" as="geometry" />
         </mxCell>
-        <mxCell id="DMyVdjie7I1hu4mO-Rp6-1" value="问题list:&#xa;&#xa;1. 硬件原理图&#xa;2. BSP库工程没有完全分离底层IO的原因&#xa;3. 通信协议文档&#xa;4. PID 增益参数默认值确定方法&#xa;5. 计算CC/Lambda模型参数学习pid_param_calculate&#xa;6. ads1247dev_Init开始转换引脚连续置低两次的原因" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-492" width="410" height="130" as="geometry" />
+        <mxCell id="DMyVdjie7I1hu4mO-Rp6-1" value="问题list:&#xa;&#xa;1. 硬件原理图&#xa;2. BSP库工程没有完全分离底层IO的原因&#xa;3. 通信协议文档（非指令集）&#xa;4. PID 增益参数默认值确定方法&#xa;5. 计算CC/Lambda模型参数学习pid_param_calculate&#xa;6. ads1247dev_Init开始转换引脚连续置低两次的原因" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="-492" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-2" value="风扇控制&lt;br&gt;PG5-系统风扇开机一直转动&lt;br&gt;PD4- 帕尔贴风扇1关闭&lt;br&gt;PH2-空气搅拌风扇1关闭&lt;br&gt;PI11-空气搅拌风扇2关闭&lt;br&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PE10-帕尔贴风扇2关闭&lt;br&gt;其他版本：&lt;div&gt;&amp;nbsp; &amp;nbsp; PE0-&lt;span style=&quot;background-color: initial;&quot;&gt;帕尔贴风扇2关闭&lt;br&gt;V6版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PA9-TEC驱动风扇关闭&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="2944.16" y="416" width="160" height="165" as="geometry" />
