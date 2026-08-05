@@ -764,11 +764,22 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-74" target="YSxUXFhamJTqSKK6I_kl-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-81" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YSxUXFhamJTqSKK6I_kl-78">
+          <mxGeometry x="-0.665" y="3" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-74" target="YSxUXFhamJTqSKK6I_kl-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-74" value="判断温度控制阶段是否为&#xa;获取一次温度阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="5010" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-76" value="进入&#xa;获取二次温度阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1159.9999999999998" y="5015" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-82" value="判断温度控制阶段是否为&#xa;获取一次温度阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="5170" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
