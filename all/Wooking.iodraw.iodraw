@@ -649,11 +649,17 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-42" value="当为调试模式&#xa;串口发送PID控制量&#xa;返回" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-830" y="4480" width="231.25" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-43" target="YSxUXFhamJTqSKK6I_kl-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-43" value="判断是否开启自动空闲标志" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="4260" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-45" value="自动空闲计数清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="4080" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-47" value="当达到设置计数&#xa;禁止控温" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1191.25" y="4265" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
