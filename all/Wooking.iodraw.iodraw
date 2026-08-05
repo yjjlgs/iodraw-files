@@ -1104,11 +1104,14 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-297" target="YSxUXFhamJTqSKK6I_kl-299">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-306" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-301" target="YSxUXFhamJTqSKK6I_kl-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-301" value="进入&#xa;温度不平衡判定阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1203.6199999999997" y="6770" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-304" value="10S判断一次&#xa;当前温度与设定温度之差大于1&#xa;且误差变化率大于0.06" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1206" y="6640" width="256" height="80" as="geometry" />
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-305" value="当重新平衡时&#xa;工作状态为运行进样&#xa;发送至PC上位机" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1203.6199999999997" y="6920" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
