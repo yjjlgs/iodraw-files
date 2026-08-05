@@ -662,7 +662,7 @@
           <mxGeometry x="-1191.25" y="3930" width="231.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-42" value="当为调试模式&#xa;串口发送PID控制量&#xa;返回" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="-1356" y="8320" width="231.25" height="100" as="geometry" />
+          <mxGeometry x="-1391.25" y="8530" width="231.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="YSxUXFhamJTqSKK6I_kl-43" target="YSxUXFhamJTqSKK6I_kl-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1158,11 +1158,14 @@
         <mxCell id="g15bAf1D5xvvrJLGXak2-13" value="根据冷/热模式调整误差符号" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1576.81" y="7670" width="297.62" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="g15bAf1D5xvvrJLGXak2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g15bAf1D5xvvrJLGXak2-15" target="g15bAf1D5xvvrJLGXak2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g15bAf1D5xvvrJLGXak2-15" value="发送至PC上位机的 Ec值" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1543.6399999999996" y="7820" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g15bAf1D5xvvrJLGXak2-17" value="判断5S执行一次" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1546.01" y="7380" width="256" height="80" as="geometry" />
+        <mxCell id="g15bAf1D5xvvrJLGXak2-17" value="判断模糊PID是否使能" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1556.01" y="7970" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
