@@ -628,6 +628,9 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-36" value="停止PWM输出" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="3630" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-37" value="判断设备没有启动控温或错误停控" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="3320" width="256" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
