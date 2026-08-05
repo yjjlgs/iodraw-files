@@ -1116,8 +1116,14 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-305" value="当重新平衡时&#xa;工作状态为运行进样&#xa;发送至PC上位机" style="rounded=1;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="-1203.62" y="6910" width="231.25" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="g15bAf1D5xvvrJLGXak2-1" value="进入&#xa;温度不平衡判定阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="g15bAf1D5xvvrJLGXak2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g15bAf1D5xvvrJLGXak2-1" target="g15bAf1D5xvvrJLGXak2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g15bAf1D5xvvrJLGXak2-1" value="更新温度值" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-867.6299999999995" y="7140" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g15bAf1D5xvvrJLGXak2-3" value="更新温度值" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-867.6299999999995" y="7290" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
