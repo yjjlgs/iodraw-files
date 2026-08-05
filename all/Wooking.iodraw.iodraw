@@ -541,11 +541,17 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-6" value="&lt;ul style=&quot;padding-inline-start: 24px; color: rgb(191, 191, 191); font-family: &amp;quot;Segoe WPC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(25, 26, 27); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;&lt;strong style=&quot;font-weight: 600;&quot;&gt;DRV1 (TECDRV1)&lt;/strong&gt;:&lt;ul style=&quot;padding-inline-start: 24px;&quot;&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;A1: TIM8_CH1 → PI5 (TIMER_INDEX8 ch1)&lt;/li&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;B1: TIM8_CH2 → PI6 (TIMER_INDEX8 ch2)&lt;/li&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;C1: TIM8_CH3 ↔ PC8 (TIMER_INDEX8 ch3&lt;/li&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;D1: TIM8_CH4 ↔ PC9 (TIMER_INDEX8 ch4&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;&lt;strong style=&quot;font-weight: 600;&quot;&gt;DRV2 (TECDRV2)&lt;/strong&gt;:&lt;ul style=&quot;padding-inline-start: 24px;&quot;&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;A2: TIM1_CH1 → PA8 (TIMER_INDEX1 ch1)&lt;/li&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;B2: TIM1_CH3 → PA10 (TIMER_INDEX1 ch3)&lt;/li&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;C2: TIM3_CH1 → PC6 (TIMER_INDEX3 ch1&lt;/li&gt;&lt;li style=&quot;margin: 4px 0px;&quot;&gt;D2: TIM3_CH2 → PC7 (TIMER_INDEX3 ch2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="YSxUXFhamJTqSKK6I_kl-8">
           <mxGeometry x="280" y="205.26315789473682" width="310" height="218.94736842105263" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-9" target="YSxUXFhamJTqSKK6I_kl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-9" value="判断ucPidAutoRunCtrl==1&#xa;是否进行自整定" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-572.37" y="2745" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-11" value="temp_ctrl_auto" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-170" y="2745" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-12" value="判断ucPidAutoRunCtrl==1&#xa;是否进行自整定" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-572.37" y="2905" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
