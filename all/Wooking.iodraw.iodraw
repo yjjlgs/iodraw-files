@@ -966,7 +966,7 @@
           <mxGeometry x="-2332" y="-1158" width="502" height="105" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-253" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="-1593.63" y="5755" width="50" height="100" as="geometry" />
+          <mxGeometry x="-1593.63" y="5660" width="50" height="415" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-254" target="YSxUXFhamJTqSKK6I_kl-255">
           <mxGeometry relative="1" as="geometry" />
@@ -980,7 +980,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-255" value="PID 参数离散化" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1869.9999999999995" y="5855" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-256" value="PID 参数离散化" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-256" value="参数渐变边界计算" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1869.9999999999995" y="6005" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
