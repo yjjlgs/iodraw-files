@@ -586,7 +586,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-22" value="检查异常标志" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="3150" width="256" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-23" value="温控结构体清零并初始化为初始状态" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-23" value="柱温过热帕尔贴过热AD 错误开门异常其他温度传感器异常" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-864" y="3120" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
