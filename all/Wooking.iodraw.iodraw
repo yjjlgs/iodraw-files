@@ -1026,7 +1026,7 @@
           <mxGeometry x="-880" y="5490" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-273" value="判断上一次温度大于设定温度&#xa;且当前温度大于设定温度" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1230" y="6930" width="256" height="80" as="geometry" />
+          <mxGeometry x="-1216" y="6920" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
