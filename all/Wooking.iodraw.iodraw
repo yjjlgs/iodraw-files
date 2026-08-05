@@ -1014,7 +1014,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-268" value="温度平衡与加热制冷状态切换计数清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1543.6299999999997" y="6620" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-269" value="温度平衡与加热制冷状态切换计数清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-269" value="进入&#xa;温度平衡阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1543.6299999999997" y="6770" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
