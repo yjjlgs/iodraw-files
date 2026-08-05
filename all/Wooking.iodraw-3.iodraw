@@ -1176,14 +1176,8 @@
         <mxCell id="g15bAf1D5xvvrJLGXak2-19" value="fKpChange、fKiChange、fKdChange 置 0&#xa;坐标设为中间值" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1885" y="7953.75" width="231.25" height="112.5" as="geometry" />
         </mxCell>
-        <mxCell id="g15bAf1D5xvvrJLGXak2-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g15bAf1D5xvvrJLGXak2-23" target="g15bAf1D5xvvrJLGXak2-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g15bAf1D5xvvrJLGXak2-23" value="记录历史温差" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="g15bAf1D5xvvrJLGXak2-23" value="记录历史温差&#xa;并返回" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1884.9999999999995" y="8160" width="231.25" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="g15bAf1D5xvvrJLGXak2-25" value="记录历史温差" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1884.9999999999995" y="8310" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
