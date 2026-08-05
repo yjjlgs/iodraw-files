@@ -583,6 +583,9 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="-610" y="3245" width="50" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-22" value="判断ucPidAutoRunCtrl==1&#xa;是否进行自整定" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-562.37" y="2755" width="256" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
