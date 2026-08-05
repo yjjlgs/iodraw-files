@@ -1167,6 +1167,9 @@
         <mxCell id="g15bAf1D5xvvrJLGXak2-17" value="判断模糊PID是否使能" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1556.01" y="7970" width="256" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="g15bAf1D5xvvrJLGXak2-19" value="发送至PC上位机的 Ec值" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1533.6399999999996" y="7830" width="231.25" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
