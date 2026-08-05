@@ -822,10 +822,15 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-96" value="切换为制冷状态" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1869.9999999999998" y="5335" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1428" y="5610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-98" value="切换为加热状态" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1543.6299999999997" y="5470" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-100" value="切换为加热状态" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-100" value="PID" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1543.6299999999997" y="5600" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
