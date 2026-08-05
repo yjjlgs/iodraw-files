@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="4108" dy="4020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4720" dy="4412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -683,12 +683,13 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-43" value="判断是否开启自动空闲标志" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="4260" width="256" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1290.83" y="6810" as="targetPoint" />
             <mxPoint x="-1076.455" y="4170" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1076" y="4230" />
+              <mxPoint x="-2060" y="4115" />
+              <mxPoint x="-2060" y="4230" />
               <mxPoint x="-2061" y="4230" />
               <mxPoint x="-2061" y="6790" />
               <mxPoint x="-1291" y="6790" />
