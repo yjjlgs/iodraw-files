@@ -662,7 +662,7 @@
           <mxGeometry x="-1191.25" y="3930" width="231.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-42" value="当为调试模式&#xa;串口发送PID控制量&#xa;返回" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="6880" width="231.25" height="100" as="geometry" />
+          <mxGeometry x="-1356" y="8320" width="231.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-43" target="YSxUXFhamJTqSKK6I_kl-47">
           <mxGeometry relative="1" as="geometry" />
@@ -793,6 +793,9 @@
           <mxGeometry x="-1159.9999999999998" y="5175" width="231.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-86" target="YSxUXFhamJTqSKK6I_kl-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-86" target="YSxUXFhamJTqSKK6I_kl-271">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-86" value="判断温度控制阶段是否为&#xa;加热或制冷阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
@@ -1016,6 +1019,9 @@
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-269" value="进入&#xa;温度平衡阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1543.6299999999997" y="6770" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-271" value="判断温度控制阶段是否为&#xa;加热或制冷阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="5490" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
