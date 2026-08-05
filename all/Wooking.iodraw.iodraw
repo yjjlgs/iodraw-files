@@ -1025,6 +1025,9 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-271" value="判断温度控制阶段是否为&#xa;加热或制冷阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="5490" width="256" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-273" target="YSxUXFhamJTqSKK6I_kl-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-273" value="判断上一次温度小于设定温度&#xa;且当前温度小于设定温度" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1216" y="5490" width="256" height="80" as="geometry" />
         </mxCell>
