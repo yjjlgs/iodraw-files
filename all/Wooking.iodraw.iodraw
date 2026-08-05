@@ -603,7 +603,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-24" value="ucFlagErrStopCtrlTemp 置 1" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="3155" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-27" value="检查异常标志" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-27" value="判断设备没有启动控温或错误停控" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="3310" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
