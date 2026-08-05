@@ -684,7 +684,11 @@
           <mxGeometry x="-880" y="4260" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-45" target="YSxUXFhamJTqSKK6I_kl-42">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1075" y="5060" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-45" value="自动空闲计数清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="4080" width="231.25" height="70" as="geometry" />
