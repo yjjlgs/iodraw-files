@@ -1140,8 +1140,8 @@
         <mxCell id="g15bAf1D5xvvrJLGXak2-9" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="-1255.6" y="7450" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g15bAf1D5xvvrJLGXak2-10" value="计算&#xa;模糊误差的误差变化率" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1543.6299999999997" y="7490" width="231.25" height="70" as="geometry" />
+        <mxCell id="g15bAf1D5xvvrJLGXak2-10" value="获取误差&#xa;计算模糊误差的误差变化率" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1610" y="7490" width="297.62" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g15bAf1D5xvvrJLGXak2-11" value="判断5S执行一次" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1556.01" y="7370" width="256" height="80" as="geometry" />
