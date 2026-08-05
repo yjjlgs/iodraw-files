@@ -580,8 +580,8 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-20" value="正常控制温度流程&#xa;temp_ctrl_normal" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-560" y="3260" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="3300" width="50" height="100" as="geometry" />
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="3245" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
