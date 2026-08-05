@@ -968,7 +968,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-253" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="-1593.63" y="5755" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-254" value="依据加热/制冷选择对应参数进行Cohen/Lambda整定算法" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-254" value="依据加热/制冷选择对应参数进行Cohen/Lambda&#xa; PI 整定算法" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1910" y="5700" width="311.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-255" value="PID 参数离散化" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
