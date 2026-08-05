@@ -1128,7 +1128,7 @@
         <mxCell id="g15bAf1D5xvvrJLGXak2-3" value="计算温度误差与&#xa;温度误差变化率" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-867.6299999999995" y="7290" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="g15bAf1D5xvvrJLGXak2-5" value="判断温度控制阶段是否为&#xa;温度不平衡判定阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="g15bAf1D5xvvrJLGXak2-5" value="判断温度控制阶段是否" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880.01" y="7460" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
