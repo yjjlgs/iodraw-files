@@ -911,12 +911,12 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-234" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="YSxUXFhamJTqSKK6I_kl-217">
           <mxGeometry y="129" width="280" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-235" value="Value 10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="YSxUXFhamJTqSKK6I_kl-234">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-235" value="fLambdaColRefriger" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="YSxUXFhamJTqSKK6I_kl-234">
           <mxGeometry width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-236" value="Value 11" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="YSxUXFhamJTqSKK6I_kl-234">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-236" value="Lambda 系数（无量纲）" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="YSxUXFhamJTqSKK6I_kl-234">
           <mxGeometry x="93" width="94" height="31" as="geometry">
             <mxRectangle width="94" height="31" as="alternateBounds" />
           </mxGeometry>
