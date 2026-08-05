@@ -631,8 +631,14 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-36" value="停止PWM输出" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="3630" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-38" target="YSxUXFhamJTqSKK6I_kl-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-38" value="依据帕与环温差&#xa;执行帕尔贴风扇控制" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="3780" width="231.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-40" value="依据帕与环温差&#xa;执行帕尔贴风扇控制" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1191.25" y="3930" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
