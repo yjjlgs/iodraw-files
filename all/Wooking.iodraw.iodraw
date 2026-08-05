@@ -652,7 +652,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-43" value="判断是否开启自动空闲标志" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="4051" width="256" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-45" value="关闭TEC驱动风扇&#xa;关闭空气搅拌风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-45" value="自动空闲计数清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="4080" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
