@@ -673,6 +673,9 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-51" value="检测设定温度是否变化" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="4580" width="256" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-53" value="自动空闲计数清零" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1181.2399999999998" y="4430" width="231.25" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
