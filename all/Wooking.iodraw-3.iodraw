@@ -1152,11 +1152,14 @@
         <mxCell id="g15bAf1D5xvvrJLGXak2-11" value="判断5S执行一次" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1556.01" y="7370" width="256" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="g15bAf1D5xvvrJLGXak2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g15bAf1D5xvvrJLGXak2-13" target="g15bAf1D5xvvrJLGXak2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g15bAf1D5xvvrJLGXak2-13" value="根据冷/热模式调整误差符号" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1576.81" y="7670" width="297.62" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g15bAf1D5xvvrJLGXak2-15" value="进入&#xa;温度平衡阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1533.6299999999997" y="6780" width="231.25" height="70" as="geometry" />
+          <mxGeometry x="-1543.6399999999996" y="7820" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
