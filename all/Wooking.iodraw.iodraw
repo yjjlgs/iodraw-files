@@ -587,7 +587,10 @@
           <mxGeometry x="-880" y="3150" width="256" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-23" value="柱温过热&#xa;帕尔贴过热&#xa;AD 错误开门异常&#xa;其他温度传感器异常" style="text;whiteSpace=wrap;dashed=1;dashPattern=1 4;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="3150" width="120" height="70" as="geometry" />
+          <mxGeometry x="-610" y="3155" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-24" value="正常控制温度流程&#xa;temp_ctrl_normal" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="3155" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
