@@ -1001,8 +1001,14 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-261" value="打开帕尔贴风扇&#xa;V6版本打开TEC驱动风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1574.8200000000002" y="6320" width="293.63" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-266" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-263" target="YSxUXFhamJTqSKK6I_kl-265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-263" value="空气循环模式下打开柱温箱风扇&#xa;稳定模式下关闭柱温箱风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-1574.82" y="6470" width="344.82" height="70" as="geometry" />
+          <mxGeometry x="-1600.4199999999998" y="6470" width="344.82" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-265" value="空气循环模式下打开柱温箱风扇&#xa;稳定模式下关闭柱温箱风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1600.4199999999998" y="6620" width="344.82" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
