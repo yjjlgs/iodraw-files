@@ -790,8 +790,14 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-84" value="进入&#xa;加热或制冷阶段" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1159.9999999999998" y="5175" width="231.25" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-86" target="YSxUXFhamJTqSKK6I_kl-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-86" value="判断温度控制阶段是否为&#xa;加热或制冷阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="5330" width="256" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-88" value="判断温度控制阶段是否为&#xa;加热或制冷阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1216" y="5330" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
