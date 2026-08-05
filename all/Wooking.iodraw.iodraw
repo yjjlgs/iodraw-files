@@ -1043,7 +1043,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-280" value="进入稳定状态的时间阈值存在问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5750" y="-2612" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-281" value="判断温度控制阶段是否为&#xa;温度平衡阶段" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-281" value="10S判断一次&#xa;当前温度与设定温度之差小于1&#xa;且误差变化率小于0.06" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1216" y="5800" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
