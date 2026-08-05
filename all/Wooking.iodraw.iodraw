@@ -591,6 +591,9 @@
             <mxPoint y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-22" target="YSxUXFhamJTqSKK6I_kl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-22" value="检查异常标志" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="3150" width="256" height="80" as="geometry" />
         </mxCell>
@@ -599,6 +602,9 @@
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-24" value="ucFlagErrStopCtrlTemp 置 1" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1210" y="3155" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-27" value="检查异常标志" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="3310" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
