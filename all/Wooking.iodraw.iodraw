@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="横式柱温箱" id="V7jgO2mOEZBEME1W6AaC">
-    <mxGraphModel dx="5708" dy="5045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6737" dy="5704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,7 +662,7 @@
           <mxGeometry x="-1191.25" y="3930" width="231.25" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-42" value="当为调试模式&#xa;串口发送PID控制量&#xa;返回" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-841.25" y="6140" width="231.25" height="100" as="geometry" />
+          <mxGeometry x="-1290" y="6740" width="231.25" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YSxUXFhamJTqSKK6I_kl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-43" target="YSxUXFhamJTqSKK6I_kl-47">
           <mxGeometry relative="1" as="geometry" />
@@ -683,13 +683,15 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-43" value="判断是否开启自动空闲标志" style="rhombus;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-880" y="4260" width="256" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSxUXFhamJTqSKK6I_kl-45" target="YSxUXFhamJTqSKK6I_kl-42">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1360" y="4320" as="targetPoint" />
+            <mxPoint x="-1290.83" y="6810" as="targetPoint" />
+            <mxPoint x="-1076.455" y="4170" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1076" y="4210" />
-              <mxPoint x="-2060" y="4210" />
-              <mxPoint x="-2060" y="6190" />
+              <mxPoint x="-1076" y="4230" />
+              <mxPoint x="-2061" y="4230" />
+              <mxPoint x="-2061" y="6790" />
+              <mxPoint x="-1291" y="6790" />
             </Array>
           </mxGeometry>
         </mxCell>
