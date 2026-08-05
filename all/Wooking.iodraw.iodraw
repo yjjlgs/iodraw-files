@@ -422,7 +422,7 @@
           <mxGeometry x="3104.16" y="416" width="328.19" height="158.75" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-1" value="问题list:&#xa;&#xa;1. 硬件原理图&#xa;2. BSP库工程没有完全分离底层IO的原因&#xa;3. 通信协议文档（非指令集）&#xa;4. PID 增益参数默认值确定方法&#xa;5. 计算CC/Lambda模型参数学习pid_param_calculate&#xa;6. ads1247dev_Init开始转换引脚连续置低两次的原因" style="text;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-492" width="310" height="130" as="geometry" />
+          <mxGeometry x="5720" y="-2860" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DMyVdjie7I1hu4mO-Rp6-2" value="风扇控制&lt;br&gt;PG5-系统风扇开机一直转动&lt;br&gt;PD4- 帕尔贴风扇1关闭&lt;br&gt;PH2-空气搅拌风扇1关闭&lt;br&gt;PI11-空气搅拌风扇2关闭&lt;br&gt;V4版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PE10-帕尔贴风扇2关闭&lt;br&gt;其他版本：&lt;div&gt;&amp;nbsp; &amp;nbsp; PE0-&lt;span style=&quot;background-color: initial;&quot;&gt;帕尔贴风扇2关闭&lt;br&gt;V6版本：&lt;br&gt;&amp;nbsp; &amp;nbsp; PA9-TEC驱动风扇关闭&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="2944.16" y="416" width="160" height="165" as="geometry" />
