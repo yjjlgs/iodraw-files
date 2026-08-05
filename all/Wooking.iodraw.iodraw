@@ -640,7 +640,7 @@
         <mxCell id="YSxUXFhamJTqSKK6I_kl-40" value="关闭TEC驱动风扇&#xa;关闭空气搅拌风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1191.25" y="3930" width="231.25" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YSxUXFhamJTqSKK6I_kl-42" value="关闭TEC驱动风扇&#xa;关闭空气搅拌风扇" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="YSxUXFhamJTqSKK6I_kl-42" value="返回" style="rounded=1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-830" y="4480" width="231.25" height="70" as="geometry" />
         </mxCell>
       </root>
