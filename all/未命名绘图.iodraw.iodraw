@@ -165,12 +165,13 @@
             <mxPoint x="3310" y="1185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHBuEm-rtrzqzi3aGq35-329" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-400" target="HHBuEm-rtrzqzi3aGq35-345">
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-329" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-400" target="HHBuEm-rtrzqzi3aGq35-345">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="100" y="5625" />
               <mxPoint x="100" y="400" />
-              <mxPoint x="2640" y="400" />
+              <mxPoint x="2590" y="400" />
+              <mxPoint x="2530" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
