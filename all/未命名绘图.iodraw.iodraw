@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="RS485阀位设定流程" id="MlmCmq-u_fUdYFJ5szb9">
-    <mxGraphModel dx="9560" dy="5240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,6 +156,16 @@
               <mxPoint x="3500" y="1107" />
               <mxPoint x="1400" y="1107" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-411" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HHBuEm-rtrzqzi3aGq35-327">
+          <mxGeometry x="-0.2515" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-412" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HHBuEm-rtrzqzi3aGq35-327">
+          <mxGeometry x="-0.2542" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HHBuEm-rtrzqzi3aGq35-328" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-396" target="HHBuEm-rtrzqzi3aGq35-357">
