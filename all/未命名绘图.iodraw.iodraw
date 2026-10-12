@@ -152,15 +152,10 @@
         <mxCell id="HHBuEm-rtrzqzi3aGq35-327" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-387" target="HHBuEm-rtrzqzi3aGq35-357">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3500" y="4215" />
-              <mxPoint x="3500" y="1107" />
+              <mxPoint x="3480" y="4215" />
+              <mxPoint x="3480" y="1107" />
               <mxPoint x="1400" y="1107" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HHBuEm-rtrzqzi3aGq35-411" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HHBuEm-rtrzqzi3aGq35-327">
-          <mxGeometry x="-0.2515" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HHBuEm-rtrzqzi3aGq35-328" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-396" target="HHBuEm-rtrzqzi3aGq35-357">
