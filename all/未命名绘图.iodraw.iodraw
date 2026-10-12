@@ -4,6 +4,428 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-282" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF6FF;strokeColor=none;strokeWidth=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="65" y="130" width="3270" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFF8F2;strokeColor=none;strokeWidth=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="65" y="485" width="3270" height="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-284" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF6E9;strokeColor=none;strokeWidth=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1830" width="3270" height="2140" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-285" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFF8F2;strokeColor=none;strokeWidth=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="65" y="3985" width="3270" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-286" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF6E9;strokeColor=none;strokeWidth=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="65" y="4650" width="3270" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-287" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EFF8F2;strokeColor=none;strokeWidth=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="65" y="5095" width="3270" height="1015" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-288" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#D8E0EA;strokeWidth=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="95" y="6000" width="3200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-289" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-341" target="HHBuEm-rtrzqzi3aGq35-342">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-290" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-342" target="HHBuEm-rtrzqzi3aGq35-343">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-291" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-343" target="HHBuEm-rtrzqzi3aGq35-344">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-292" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-344" target="HHBuEm-rtrzqzi3aGq35-345">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-293" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-345" target="HHBuEm-rtrzqzi3aGq35-346">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-294" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-347" target="HHBuEm-rtrzqzi3aGq35-348">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-295" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-348" target="HHBuEm-rtrzqzi3aGq35-349">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-296" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-348" target="HHBuEm-rtrzqzi3aGq35-351">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-297" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-351" target="HHBuEm-rtrzqzi3aGq35-353">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-298" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-353" target="HHBuEm-rtrzqzi3aGq35-355">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-299" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-355" target="HHBuEm-rtrzqzi3aGq35-357">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-300" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-357" target="HHBuEm-rtrzqzi3aGq35-358">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-301" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-357" target="HHBuEm-rtrzqzi3aGq35-360">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-302" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-360" target="HHBuEm-rtrzqzi3aGq35-362">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-303" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-362" target="HHBuEm-rtrzqzi3aGq35-363">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-304" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-362" target="HHBuEm-rtrzqzi3aGq35-365">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-305" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-365" target="HHBuEm-rtrzqzi3aGq35-367">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-306" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-367" target="HHBuEm-rtrzqzi3aGq35-368">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-307" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-368" target="HHBuEm-rtrzqzi3aGq35-369">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-308" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-369" target="HHBuEm-rtrzqzi3aGq35-370">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-309" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-370" target="HHBuEm-rtrzqzi3aGq35-371">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-310" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-371" target="HHBuEm-rtrzqzi3aGq35-372">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-311" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-372" target="HHBuEm-rtrzqzi3aGq35-373">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-312" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-373" target="HHBuEm-rtrzqzi3aGq35-374">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-313" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-374" target="HHBuEm-rtrzqzi3aGq35-375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-314" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-372" target="HHBuEm-rtrzqzi3aGq35-376">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-315" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-374" target="HHBuEm-rtrzqzi3aGq35-378">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-316" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-375" target="HHBuEm-rtrzqzi3aGq35-380">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="3090" />
+              <mxPoint x="2240" y="3200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-317" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-375" target="HHBuEm-rtrzqzi3aGq35-384">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="3090" />
+              <mxPoint x="100" y="4070" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-318" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-384" target="HHBuEm-rtrzqzi3aGq35-386">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-319" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-386" target="HHBuEm-rtrzqzi3aGq35-387">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-320" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-386" target="HHBuEm-rtrzqzi3aGq35-389">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-321" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-389" target="HHBuEm-rtrzqzi3aGq35-391">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-322" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-391" target="HHBuEm-rtrzqzi3aGq35-393">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-323" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-393" target="HHBuEm-rtrzqzi3aGq35-395">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-324" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-395" target="HHBuEm-rtrzqzi3aGq35-396">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-325" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-395" target="HHBuEm-rtrzqzi3aGq35-398">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-326" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-398" target="HHBuEm-rtrzqzi3aGq35-400">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-327" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-387" target="HHBuEm-rtrzqzi3aGq35-357">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3260" y="4260" />
+              <mxPoint x="3260" y="1185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-328" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-396">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3310" y="5415" />
+            </Array>
+            <mxPoint x="3310" y="1185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-329" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3778A8;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="HHBuEm-rtrzqzi3aGq35-400" target="HHBuEm-rtrzqzi3aGq35-345">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="5625" />
+              <mxPoint x="100" y="400" />
+              <mxPoint x="2640" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-330" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="6034" as="sourcePoint" />
+            <mxPoint x="470" y="6034" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-331" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#B97823;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="6034" as="sourcePoint" />
+            <mxPoint x="1050" y="6034" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-332" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#36845A;strokeWidth=4;endArrow=classic;endFill=1;dashed=1;dashPattern=8 6;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="6034" as="sourcePoint" />
+            <mxPoint x="1760" y="6034" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-333" value="&lt;div style=&quot;font-size:44px;font-weight:700;color:#17324f;white-space:nowrap;&quot;&gt;RS485 指令接收与 CV720 切换阀驱动流程（定时器状态机展开版）&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1021.12" y="3.44" width="1357.76" height="74.8" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-334" value="&lt;div style=&quot;font-size:24px;color:#607087;white-space:nowrap;&quot;&gt;重点展开 TIMER0 更新中断各阶段：每批脉冲结束后根据 eValveRunStage 决定下一批操作&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1189.96" y="70.24" width="1020.08" height="40.8" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-335" value="&lt;div style=&quot;font-size:27px;font-weight:700;color:#46556a;white-space:nowrap;&quot;&gt;串口任务 / 指令分发（沿用此前链路；串口源码未在本轮提供）&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="139.52" width="789.98" height="45.9" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-336" value="&lt;div style=&quot;font-size:27px;font-weight:700;color:#46556a;white-space:nowrap;&quot;&gt;切换阀驱动｜目标检查、首批脉冲启动与等待&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="494.52" width="554" height="45.9" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-337" value="&lt;div style=&quot;font-size:27px;font-weight:700;color:#46556a;white-space:nowrap;&quot;&gt;定时器更新中断 / 位置传感器 EXTI｜速度曲线状态机&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1839.52" width="679.28" height="45.9" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-338" value="&lt;div style=&quot;font-size:27px;font-weight:700;color:#46556a;white-space:nowrap;&quot;&gt;切换阀驱动｜寻位结果校验与中心补偿启动&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3994.52" width="527" height="45.9" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-339" value="&lt;div style=&quot;font-size:27px;font-weight:700;color:#46556a;white-space:nowrap;&quot;&gt;定时器更新中断｜中心补偿批次结束处理&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="4659.52" width="500" height="45.9" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-340" value="&lt;div style=&quot;font-size:27px;font-weight:700;color:#46556a;white-space:nowrap;&quot;&gt;切换阀驱动｜最终位置复核与返回上层&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="5104.52" width="473" height="45.9" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-341" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;RS485 接收 / 协议解析&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;（接收与校验细节待源码确认）&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#5285B5;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="110" y="229" width="440" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-342" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;写入接收队列&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;stQueueMAX3485Rec&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#5285B5;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="660" y="229" width="440" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-343" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;task_max3485_cmd_analysis()&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;取出 stMAX3485CmdRec&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#5285B5;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="229" width="440" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-344" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;按功能码分发&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;选择对应命令处理函数&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#5285B5;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="229" width="440" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-345" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;MAX3485_cmd_valve_position_set()&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;读取目标阀位 aucDat[0]&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#5285B5;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="229" width="440" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-346" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;调用 bsp_valve_set_pos(ePos)&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;目标阀位 A / B&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#5285B5;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2860" y="229" width="440" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-347" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;bsp_valve_set_pos(ePos)&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;初始化 eValveStatus = VALVE_STATUS_OK&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="875" y="517" width="1050" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-348" value="&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;ePos 是否为&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;VALVE_POS_A / B？&lt;/div&gt;" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#AD8D35;fillColor=#FFF8E3;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="631" width="620" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-349" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;否：状态置为 ERR&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;goto ret&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#BA6B64;fillColor=#FFF4F2;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="641" width="670" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-350" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;否&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1885" y="636" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-351" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;检查 paucBCDToPos 是否为 NULL&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;若为空：状态置 ERR → goto ret&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="820" y="775" width="1160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-352" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;是&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="736" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-353" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;检查 pstValveRunParam 是否为 NULL&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;若为空：状态置 ERR → goto ret&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="820" y="895" width="1160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-354" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;否&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="858" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-355" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;设置运行参考电压 fVoltageRun&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;ucCountValveSwitchRetry = 0&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1015" width="1160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-356" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;否&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="978" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-357" value="&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;ucCountValveSwitchRetry++ &amp;gt;= 3？&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;达到上限则报错退出&lt;/div&gt;" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#AD8D35;fillColor=#FFF8E3;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1127.5" width="760" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-358" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;是：状态置 ERR&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;goto ret&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#BA6B64;fillColor=#FFF4F2;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1140" width="670" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-359" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;是&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1135" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-360" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;stage = BACKCLASH；eValveDestPos = ePos&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;读取当前 BCD：bsp_valve_get_BCD_code()&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1279" width="1250" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-361" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;否&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="1237" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-362" value="&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;paucBCDToPos[ucBCDCode]&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;是否等于目标阀位？&lt;/div&gt;" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#AD8D35;fillColor=#FFF8E3;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="975" y="1399" width="850" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-363" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;是：已经在目标位置&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;跳转 ret，不执行运动&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#F5FFF8;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2150" y="1411" width="680" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-364" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;是&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="1405" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-365" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;否：关闭位置 EXTI 与 TIMER0 UP 中断；方向设为 REVERSE&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;全局关中断；uiArrVal = 1,000,000 / usSpeedBackClash&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1535" width="1540" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-366" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;否&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="1498" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-367" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;首批 BACKCLASH：速度 600 步/s，步数 8&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;bsp_valve_run_steps(uiArrVal, usStepNumBackClash)&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1654" width="1540" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-368" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;ucFlagValveRun = 1 → 开 TIMER0 UP IRQ → 开全局中断&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;主函数 while (ucFlagValveRun) 忙等整个切换过程&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1750" width="1540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-369" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;TIMER0_UP_TIMER9_IRQHandler()&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;每批脉冲结束触发更新中断 → switch(eValveRunStage)&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1863" width="1650" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-370" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;状态 0｜BACKCLASH&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;当前批次：主函数启动的回差/起始消隙动作结束（CV720：600 步/s × 8 步）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;ISR 配置下一批：速度 = usSpeedStart = 600 步/s；步数 = usStepNumStart = 8&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;更新 eValveRunStage = START；此处不结束整次运动，继续等待后续批次&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1967" width="1960" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-371" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;状态 1｜START&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;当前 START 批次（600 步/s × 8 步）结束后，启动第一段加速&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;速度 = usSpeedStart + usSpeedInc = 600 + 25 = 625 步/s；步数 = Gap = 4&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;usCountStepIncDecSpeed = 0；eValveRunStage = INC&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2160" width="1960" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-372" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;状态 2｜INC（加速）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;每批 4 步完成后：usCountStepIncDecSpeed++；判断 count × Gap &amp;gt;= usStepNumInc（20）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;未达到：下一批速度 = 600 + (count + 1) × 25；运行 Gap=4 步；保持 INC&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;达到：配置 PEEK：1100 步/s × 128 步；计数清零；eValveRunStage = PEEK&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;CV720 加速批次速度序列：625、650、675、700、725 步/s；每档 4 步，共 20 步&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2338" width="1960" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-373" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;状态 3｜PEEK（峰值匀速）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;峰值速度批次完成：1100 步/s × 128 步&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;配置第一段减速：速度 = usSpeedPeek − usSpeedDec = 1075 步/s；步数 = Gap = 4&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;开启位置传感器 EXTI；计数清零；eValveRunStage = DEC&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2576" width="1960" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-374" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;状态 4｜DEC（减速）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;每批 4 步完成后：usCountStepIncDecSpeed++；判断 count × Gap &amp;gt;= usStepNumDec（20）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;未达到：下一批速度 = 1100 − (count + 1) × 25；运行 4 步；保持 DEC&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;达到：配置 SENSOR_SEEK：600 步/s × 最多 56 步；计数清零；stage = SENSOR_SEEK&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;CV720 减速批次速度序列：1075、1050、1025、1000、975 步/s；每档 4 步，共 20 步&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2757" width="1960" height="206" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-375" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;状态 5｜SENSOR_SEEK（寻位）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;寻位批次使用 usSpeedBackClash = 600 步/s，最多 usMaxStepNumSensorSeek = 56 步&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;若 56 步完整执行、期间 EXTI 未命中目标：ISR 将 CH0 拉低、关闭 TIMER0 UP IRQ 和位置 EXTI&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;随后 ucFlagValveRun = 0，解除主函数 while 等待；主函数再读 BCD 判断是否需要重试&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3002" width="1960" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-376" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;INC 分支与“下一批”关系&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;TIMER0 更新中断每次只配置下一批脉冲。&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;当 count × 4 &amp;lt; 20：设置下一速度、4 步，&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;stage 仍为 INC；下一批结束后再次进入 INC。&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;只有达到 20 步阈值才切换到 PEEK。&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#D9A441;fillColor=#FFF9ED;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2285" y="2220" width="930" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-377" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;分支说明&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="2389" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-378" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;DEC 分支与寻位入口&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;当 count × 4 &amp;lt; 20：设置下一档减速速度、4 步，&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;stage 仍为 DEC；下一批结束后继续判断。&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;达到 20 步减速目标后，才进入 SENSOR_SEEK。&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#D9A441;fillColor=#FFF9ED;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2285" y="2672.5" width="930" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-379" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;分支说明&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="2808" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-380" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;位置传感器 EXTI（异步触发）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;仅在 PEEK 批次结束、启动 DEC 时打开；下降沿触发。&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;输入低有效：PA11(PosD)=bit0；PB7(PosC)=bit1；PB6(PosB)=bit2；PB5(PosA)=bit3。&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;读取 BCD，若 paucBCDToPos[ucBCDCode] == eValveDestPos：&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;CH0 拉低 → 关闭 TIMER0 UP IRQ / 位置 EXTI → flag=0。&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;若不是目标阀位，不停止当前运动，继续执行减速/寻位。&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2265" y="3075" width="1040" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-381" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;命中目标可提前停止&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="2156.76" y="3039" width="176.48" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-382" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;批次脉冲配置：bsp_valve_run_steps(uiArrVal, usStepNum)&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;ARR = uiArrVal − 1；CH0 比较值 = uiArrVal &amp;gt;&amp;gt; 1（约 50% 占空比）；重复计数 = usStepNum − 1&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;CNT 清零后触发 UPG；切到 PWM1。speed_calculate：uiArrVal = 1,000,000 / 目标步频（步/s）&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3315" width="1960" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-383" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;TIMER0 ISR 收尾：清除 TIMER_INT_FLAG_UP&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;寻位中途命中目标（EXTI）或 SENSOR_SEEK 整批跑完（未命中）都会把 ucFlagValveRun 置 0&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3510" width="1960" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-384" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;主函数等待结束：while (ucFlagValveRun) 退出&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;原因：目标 EXTI 命中，或 SENSOR_SEEK 的 56 步批次结束&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="650" y="4025" width="1500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-385" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;flag=0 后返回主函数&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="38.32" y="3761" width="243.36" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-386" value="&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;重新读取 BCD 并映射&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;是否等于 eValveDestPos？&lt;/div&gt;" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#AD8D35;fillColor=#FFF8E3;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="970" y="4160" width="860" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-387" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;否：goto retry&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;回到重试上限判断&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#BA6B64;fillColor=#FFF4F2;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2155" y="4171" width="690" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-388" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;否&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1935" y="4164" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-389" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;是：主函数启动 SENSOR_CENTER 补偿批次&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;stage = SENSOR_CENTER；关闭 PWM IRQ；run_steps(uiArrVal, 16)；flag=1 后重新开 UP IRQ / 全局中断&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;此时 uiArrVal 沿用寻位速度 600 步/s 的周期（约 1666），代码没有在这里重新计算速度&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="550" y="4291" width="1700" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-390" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;是&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="4256" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-391" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;状态 6｜SENSOR_CENTER（中心补偿批次完成）&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;TIMER0 ISR 将 CH0 输出强制拉低；关闭 TIMER0 UP 中断；ucFlagValveRun = 0&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;清除 TIMER_INT_FLAG_UP 后返回中断；主函数 while 退出并进行最终 BCD 复核&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#B97823;fillColor=#FFFDF9;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="525" y="4697.5" width="1750" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-392" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;中心补偿 16 步完成后进入此 ISR 分支&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1523.08" y="4531" width="393.84" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-393" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;中心补偿完成后再次读取 BCD&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;bsp_valve_get_BCD_code() → paucBCDToPos[ucBCDCode]&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="690" y="5184" width="1420" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-394" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;flag=0，主函数继续&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1491.68" y="4986" width="226.64" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-395" value="&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;最终映射位置&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;是否仍等于目标阀位？&lt;/div&gt;" style="shape=rhombus;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#AD8D35;fillColor=#FFF8E3;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="980" y="5315" width="840" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-396" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;否：goto retry&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;重新尝试（最多 3 次）&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#BA6B64;fillColor=#FFF4F2;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="2155" y="5325" width="690" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-397" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;否&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1935" y="5319" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-398" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;是：或其他错误退出路径到 ret&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;设置 fVoltageStandby；Debug 输出状态；return eValveStatus&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#36845A;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="650" y="5455" width="1500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-399" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;是&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="5416" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-400" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;返回 eValveStatus 给上层命令处理&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;上层再组织 max3485_response()（串口调用关系沿用历史梳理）&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#5285B5;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="650" y="5581" width="1500" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-401" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;goto retry&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="3133.4" y="3676" width="193.2" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-402" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;goto retry&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="2993.4" y="5276" width="193.2" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-403" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap&quot;&gt;返回执行结果 / 组织响应&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=#F8FAFC;rounded=1;arcSize=8;strokeOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1368.32" y="366" width="243.36" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-404" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;line-height:1.25&quot;&gt;CV720 参数（源码配置）：Run VREF=2.3 V；Standby VREF=1.0 V；BackClash=8 步；Start=8 步；Inc/Dec 各 20 步；Peek=128 步；Seek 最大 56 步；Center=16 步&lt;/div&gt;&lt;div style=&quot;font-size:21px;color:#203047;line-height:1.28&quot;&gt;注意：ret 标签会访问 pstValveRunParam-&amp;gt;fVoltageStandby，因此参数指针为空后 goto ret 存在空指针风险（源码本身如此）&lt;/div&gt;" style="shape=rounded;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;spacing=8;strokeColor=#D5DDE7;fillColor=#FFFFFF;strokeWidth=3;rounded=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="5795" width="3000" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-405" value="&lt;div style=&quot;font-size:25px;font-weight:700;color:#203047;white-space:nowrap;&quot;&gt;图例：&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="6009" width="100" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-406" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap;&quot;&gt;主流程 / 函数调用&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="6018.44" width="180.06" height="32.3" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-407" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap;&quot;&gt;定时器 / EXTI 异步协同&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="6018.44" width="235.16" height="32.3" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-408" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap;&quot;&gt;反馈 / 重试回跳&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="6018.44" width="161.06" height="32.3" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-409" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap;&quot;&gt;状态阶段顺序：BACKCLASH → START → INC → PEEK → DEC → SENSOR_SEEK；通过主函数校验后，另行启动 SENSOR_CENTER 补偿批次。&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="6066.44" width="1264.2" height="32.3" as="geometry" />
+        </mxCell>
+        <mxCell id="HHBuEm-rtrzqzi3aGq35-410" value="&lt;div style=&quot;font-size:19px;color:#45566E;white-space:nowrap;&quot;&gt;INC / DEC 中的“未达到阈值”分支会配置下一批 4 步并保持原状态；只有达到目标步数，才转入下一阶段。&lt;/div&gt;" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;spacing=2;strokeColor=none;fillColor=none;strokeOpacity=0;fillOpacity=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="6101.44" width="955.26" height="32.3" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
